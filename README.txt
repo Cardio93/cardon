@@ -6,7 +6,7 @@ mediciones y reporte. Funciona sin internet y las imágenes no salen del computa
 
   Página y descarga:      index.html (GitHub Pages)
   Usar en el navegador:   app/
-  Instalador:             descargas/Cardon-instalador.zip  (Windows y Linux)
+  Instalador:             descargas/Cardon-instalador.zip  (Windows y Mac)
   Código fuente:          codigo/  (ver codigo/COMO-COMPILAR.txt)
   Licencia:               LICENSE
 
