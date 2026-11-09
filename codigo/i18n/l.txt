@@ -1,0 +1,55 @@
+Arrastra una línea punteada para mover ese plano o un extremo (círculo) para girarlo; Ctrl + clic lleva los planos a ese punto. «Restablecer» vuelve a los planos rectos. ⇒ Drag a dashed line to move that plane or an end (circle) to rotate it; Ctrl + click brings the planes to that point. "Reset" returns to straight planes.
+Axial, coronal y sagital enlazados, con líneas de referencia y planos oblicuos. ⇒ Linked axial, coronal and sagittal, with reference lines and oblique planes.
+MPR listo. Arrastra una línea punteada para mover ese plano, o uno de sus extremos (círculo) para girarlo y obtener cortes fuera de eje. La rueda pasa de corte en corte; Ctrl + clic lleva los planos a ese punto. ⇒ MPR ready. Drag a dashed line to move that plane, or one of its ends (circle) to rotate it and get off-axis slices. The wheel steps slice by slice; Ctrl + click brings the planes to that point.
+Restablecer los planos (MPR) ⇒ Reset planes (MPR)
+Posición {} mm ⇒ Position {} mm
+Píxel {} mm ⇒ Pixel {} mm
+Axial ⇒ Axial
+Axial oblicuo ⇒ Oblique axial
+Coronal oblicuo ⇒ Oblique coronal
+Sagital oblicuo ⇒ Oblique sagittal
+arrastrar la línea: mover el plano · arrastrar el círculo: girarlo ⇒ drag the line: move the plane · drag the circle: rotate it
+en MPR, lleva los planos a ese punto ⇒ in MPR, brings the planes to that point
+El score de calcio se marca en la serie axial original (en la lista de secuencias), no en el MPR. ⇒ The calcium score is marked on the original axial series (in the sequence list), not on the MPR.
+No se pudo guardar ⇒ Could not save
+No hay espacio para guardar en este computador. Borra estudios que ya no uses o haz una copia completa y libera espacio. ⇒ There is no space to save on this computer. Delete studies you no longer use or make a full backup and free up space.
+Cardón está bloqueado: desbloquéalo para guardar los cambios. ⇒ Cardón is locked: unlock it to save the changes.
+No se pudo guardar el estudio en este computador. Los cambios siguen en pantalla; Cardón lo intentará de nuevo. ⇒ The study could not be saved on this computer. The changes are still on screen; Cardón will try again.
+No se pudo guardar el paciente en este computador. Los cambios siguen en pantalla; Cardón lo intentará de nuevo. ⇒ The patient could not be saved on this computer. The changes are still on screen; Cardón will try again.
+No se pudo guardar algunas imágenes de la copia en este computador. Los cambios siguen en pantalla; Cardón lo intentará de nuevo. ⇒ Some images from the backup could not be saved on this computer.
+No se pudo guardar la configuración en este computador. Los cambios siguen en pantalla; Cardón lo intentará de nuevo. ⇒ The settings could not be saved on this computer.
+Bloqueo automático sin uso ⇒ Automatic lock when idle
+Nunca ⇒ Never
+A los 5 minutos ⇒ After 5 minutes
+A los 10 minutos ⇒ After 10 minutes
+A los 15 minutos ⇒ After 15 minutes
+A los 30 minutos ⇒ After 30 minutes
+A la hora ⇒ After one hour
+Cardón se bloqueó tras {n} minutos sin uso. Escribe la contraseña para continuar. ⇒ Cardón locked after {} minutes without use. Enter the password to continue.
+Revisar DsVI ⇒ Check LVIDs
+El diámetro sistólico es igual o mayor que el diastólico: no se calcula la FEVI por Teichholz. ⇒ The systolic diameter is equal to or larger than the diastolic one: Teichholz LVEF is not calculated.
+Revisar volúmenes ⇒ Check volumes
+El volumen telesistólico es igual o mayor que el telediastólico: no se calcula la FEVI por Simpson. ⇒ The end-systolic volume is equal to or larger than the end-diastolic one: Simpson LVEF is not calculated.
+{n} imagen guardada no se pudo leer; puede que estén dañadas. Si tienes el CD o los archivos, vuelve a importarlos. ⇒ {} saved image could not be read; it may be damaged. If you have the CD or the files, import them again.
+{n} imágenes guardadas no se pudieron leer; puede que estén dañadas. Si tienes el CD o los archivos, vuelve a importarlos. ⇒ {} saved images could not be read; they may be damaged. If you have the CD or the files, import them again.
+Sin DsVI no se calcula FEVI por Teichholz ⇒ Without LVIDs, Teichholz LVEF is not calculated
+DsVI mayor que DdVI: no da FEVI negativa y avisa ⇒ LVIDs larger than LVIDd: no negative LVEF, and a warning
+VTS mayor que VTD: no da FEVI negativa y avisa ⇒ ESV larger than EDV: no negative LVEF, and a warning
+Peso 0: no calcula superficie corporal ⇒ Weight 0: body surface area is not calculated
+Superficie corporal en paciente pequeño (40 kg, 150 cm) ⇒ Body surface area in a small patient (40 kg, 150 cm)
+Sin diámetro del TSVI no se calcula el área aórtica ⇒ Without LVOT diameter, aortic valve area is not calculated
+PSAP con PAD automática sin VCI (asume 3 mmHg): 25 + 3 ⇒ PASP with automatic RAP without IVC (assumes 3 mmHg): 25 + 3
+Velocidad de IT 0: no calcula PSAP ⇒ TR velocity 0: PASP is not calculated
+E/e' solo con e' septal (80 / 8) ⇒ E/e' with septal e' only (80 / 8)
+Los cálculos no cambian al mostrar en cm (FEVI Teichholz) ⇒ Calculations do not change when displaying in cm (Teichholz LVEF)
+Conversión de unidades ida y vuelta (5 cm → 50 mm → 5 cm) ⇒ Round-trip unit conversion (5 cm → 50 mm → 5 cm)
+Velocidad medida fuera del espectro Doppler: se rechaza ⇒ Velocity measured outside the Doppler spectrum: rejected
+Trazo de área demasiado corto: se rechaza ⇒ Area trace too short: rejected
+ITV que no avanza en el tiempo: se rechaza ⇒ VTI that does not advance in time: rejected
+Angiografía: TCI 49 % y DA 69 % no son significativas ⇒ Angiography: LM 49 % and LAD 69 % are not significant
+Angiografía: TCI 50 % y DA 70 % sí son significativas ⇒ Angiography: LM 50 % and LAD 70 % are significant
+Dominancia izquierda: la DP cuenta como Cx ⇒ Left dominance: the PDA counts as LCx
+Conteo TIMI corregido de la DA (11 cuadros a 15/s → 22 → ÷1,7) ⇒ Corrected LAD TIMI frame count (11 frames at 15/s → 22 → ÷1.7)
+Conteo TIMI con final anterior al inicio: no se calcula ⇒ TIMI count with end before start: not calculated
+Índice de motilidad (16 normales y 1 acinético) ⇒ Wall motion score index (16 normal and 1 akinetic)
+Índice de motilidad sin segmentos evaluados: no se calcula ⇒ Wall motion score index without scored segments: not calculated

@@ -1,0 +1,189 @@
+# ---- Interfaz general ----
+Cardón Imágenes Cardiovasculares ⇒ Cardón Cardiovascular Imaging
+Imágenes cardiovasculares ⇒ Cardiovascular imaging
+Imágenes cardiovasculares · versión ⇒ Cardiovascular imaging · version
+Inicio ⇒ Home
+Agregar imágenes ⇒ Add images
+Configuración ⇒ Settings
+Acerca de ⇒ About
+Pantalla completa ⇒ Full screen
+Importar ⇒ Import
+Abre un estudio ⇒ Open a study
+Ecocardiogramas, angiografías coronarias y resonancias cardíacas. Elige de dónde vienen las imágenes: el paciente y el estudio se crean solos con los datos del archivo DICOM. ⇒ Echocardiograms, coronary angiograms and cardiac MR. Choose where the images come from: the patient and the study are created automatically from the DICOM data.
+Desde CD o DVD ⇒ From CD or DVD
+Selecciona la unidad del disco del estudio ⇒ Select the drive of the study disc
+Carpeta ⇒ Folder
+Una carpeta con estudios, incluidas sus subcarpetas ⇒ A folder with studies, including its subfolders
+Archivos DICOM ⇒ DICOM files
+Una o varias imágenes o clips ⇒ One or more images or clips
+Archivo .zip ⇒ .zip file
+Estudio comprimido o copia de seguridad de Cardón ⇒ Compressed study or Cardón backup
+Guardar una copia de las imágenes en este computador para abrirlas luego desde la lista ⇒ Keep a copy of the images on this computer to open them later from the list
+O arrastra aquí archivos, carpetas o un .zip ⇒ Or drag files, folders or a .zip here
+Suelta aquí tus archivos DICOM o .zip ⇒ Drop your DICOM or .zip files here
+Todo se procesa y se guarda en este navegador; nada se sube a internet. Herramienta de revisión y docencia, no un dispositivo médico para diagnóstico. ⇒ Everything is processed and stored in this browser; nothing is uploaded to the internet. A review and teaching tool, not a medical device for diagnosis.
+Probar con el clip de ejemplo ⇒ Try the sample clip
+Cardón · Dr. Martín Arrieta · Software libre bajo licencia GNU GPL v3 ⇒ Cardón · Dr. Martín Arrieta · Free software under the GNU GPL v3 license
+Pacientes ⇒ Patients
+Buscar paciente ⇒ Search patient
+Buscar por nombre o documento ⇒ Search by name or ID
+Aún no hay pacientes. Importa un estudio y aparecerá aquí con sus datos. ⇒ No patients yet. Import a study and it will appear here with its data.
+Ningún paciente coincide con la búsqueda. ⇒ No patient matches the search.
+Cargando tus pacientes… ⇒ Loading your patients…
+Estudio abierto ⇒ Open study
+Volver al visor ⇒ Back to viewer
+Abrir ⇒ Open
+Ver medidas ⇒ View measurements
+Sin estudios ⇒ No studies
+sin imágenes guardadas ⇒ no saved images
+Sin nombre ⇒ No name
+Sin paciente ⇒ No patient
+Sin paciente asignado ⇒ No patient assigned
+Copia de seguridad ⇒ Backup
+La copia completa incluye pacientes, medidas, configuración e imágenes. Para pasarla a otro computador, impórtala allí con el botón de abajo o arrastrándola a la ventana. ⇒ The full backup includes patients, measurements, settings and images. To move it to another computer, import it there with the button below or by dragging it onto the window.
+Copia completa (.zip) ⇒ Full backup (.zip)
+Solo datos (.json) ⇒ Data only (.json)
+Importar copia ⇒ Import backup
+Exportar para análisis ⇒ Export for analysis
+Una fila por estudio con todas las medidas y cálculos, lista para Excel o un programa estadístico. ⇒ One row per study with all measurements and calculations, ready for Excel or a statistics program.
+Medidas de todos los estudios (.xlsx) ⇒ Measurements of all studies (.xlsx)
+Sin nombre ni documento ⇒ Without name or ID
+Aún no hay estudios para exportar. ⇒ There are no studies to export yet.
+Aún no hay medidas para exportar. ⇒ There are no measurements to export yet.
+Preparando el archivo de Excel… ⇒ Preparing the Excel file…
+No se pudo crear el archivo de Excel. ⇒ The Excel file could not be created.
+No se pudo crear el archivo de Excel. Revisa tu conexión e inténtalo de nuevo. ⇒ The Excel file could not be created. Check your connection and try again.
+Revisa tu conexión e inténtalo de nuevo. ⇒ Check your connection and try again.
+Desbloquea Cardón primero. ⇒ Unlock Cardón first.
+Reuniendo archivos… ⇒ Gathering files…
+Secuencias ⇒ Sequences
+Abre una imagen para medir. ⇒ Open an image to measure.
+Abre una angiografía para medir. ⇒ Open an angiogram to measure.
+No hay imágenes abiertas. Usa «Agregar imágenes» o vuelve al inicio. ⇒ No images open. Use “Add images” or go back home.
+Elige una secuencia de la lista para esta ventana. ⇒ Choose a sequence from the list for this viewport.
+Este estudio no tiene imágenes guardadas en este computador. Usa «Agregar imágenes» para abrirlas. ⇒ This study has no images saved on this computer. Use “Add images” to open them.
+Este estudio no tiene imágenes guardadas. Usa «Agregar imágenes» si las tienes. ⇒ This study has no saved images. Use “Add images” if you have them.
+La imagen todavía se está preparando. ⇒ The image is still loading.
+Preparando los cuadros… ⇒ Loading frames…
+# ---- Barra de reproducción ----
+Ir al inicio ⇒ Go to start
+Secuencia anterior ⇒ Previous sequence
+Secuencia anterior (↑) ⇒ Previous sequence (↑)
+Secuencia siguiente ⇒ Next sequence
+Secuencia siguiente (↓) ⇒ Next sequence (↓)
+Cuadro anterior ⇒ Previous frame
+Cuadro anterior (←) ⇒ Previous frame (←)
+Cuadro siguiente ⇒ Next frame
+Cuadro siguiente (→) ⇒ Next frame (→)
+Reproducir ⇒ Play
+Pausar ⇒ Pause
+Reproducir o pausar (espacio) ⇒ Play or pause (space)
+Imagen fija: no hay cuadros que reproducir ⇒ Still image: no frames to play
+Cuadros ⇒ Frames
+Velocidad de reproducción ⇒ Playback speed
+TD ⇒ ED
+TS ⇒ ES
+Ir a la siguiente telediástole (D) ⇒ Go to the next end-diastole (D)
+Ir a la siguiente telesístole (S) ⇒ Go to the next end-systole (S)
+Ir a la siguiente telesístole estimada (S) ⇒ Go to the next estimated end-systole (S)
+Esta secuencia no trae ECG legible. Marca el cuadro con clic derecho → Marcar telediástole (o Shift+D). ⇒ This sequence has no readable ECG. Mark the frame with right-click → Mark end-diastole (or Shift+D).
+Marca el cuadro con clic derecho → Marcar telesístole (o Shift+S). ⇒ Mark the frame with right-click → Mark end-systole (or Shift+S).
+Brillo ⇒ Brightness
+Zoom ⇒ Zoom
+Mover ⇒ Pan
+Acción al arrastrar sobre la imagen ⇒ Action when dragging on the image
+Arrastrar ajusta brillo y contraste ⇒ Dragging adjusts brightness and contrast
+Arrastrar hacia arriba acerca, hacia abajo aleja (Z) ⇒ Drag up to zoom in, down to zoom out (Z)
+Arrastrar mueve la imagen ⇒ Dragging moves the image
+Vista ⇒ View
+Ventanas ⇒ Viewports
+Distribución de ventanas ⇒ Viewport layout
+Una ventana ⇒ One viewport
+Dos ventanas lado a lado ⇒ Two viewports side by side
+Cuatro ventanas ⇒ Four viewports
+Sincronizar ventanas ⇒ Sync viewports
+Las ventanas avanzan en la misma fase del ciclo ⇒ Viewports advance in the same cardiac phase
+Ajuste de la imagen ⇒ Image fit
+Ajustar ⇒ Fit
+Llenar ⇒ Fill
+Tamaño 1:1 ⇒ Size 1:1
+La imagen completa cabe en la ventana ⇒ The whole image fits in the viewport
+Un píxel de la imagen por píxel de la pantalla ⇒ One image pixel per screen pixel
+Ocupa toda la ventana; puede recortar los bordes ⇒ Fills the whole viewport; may crop the edges
+Imagen ⇒ Image
+Ida y vuelta ⇒ Back and forth
+Reproducir hacia adelante y atrás ⇒ Play forward and backward
+Invertir ⇒ Invert
+Invertir (I) ⇒ Invert (I)
+Invertido ⇒ Inverted
+Restablecer vista ⇒ Reset view
+Restablecer vista (R) ⇒ Reset view (R)
+Mostrar ⇒ Show
+Datos en las esquinas ⇒ Corner data
+Cuadro, fps, frecuencia y ajustes en las esquinas ⇒ Frame, fps, heart rate and settings in the corners
+Encabezado del archivo ⇒ File header
+Modalidad, equipo y fecha en la esquina superior. En ecos se oculta porque el ecógrafo ya los muestra ⇒ Modality, device and date in the upper corner. Hidden for echo because the scanner already shows them
+Nombre del paciente ⇒ Patient name
+Mostrar nombre e identificación del paciente ⇒ Show patient name and ID
+Trazo de ECG ⇒ ECG trace
+Mostrar el trazo de ECG cuando el archivo lo trae ⇒ Show the ECG trace when the file includes it
+Exportar ⇒ Export
+Ocultar zona… ⇒ Hide area…
+Ocultar zona ⇒ Hide area
+Arrastra un rectángulo sobre texto quemado en la imagen para ocultarlo al exportar ⇒ Drag a rectangle over burned-in text to hide it when exporting
+Quitar zonas ocultas ⇒ Remove hidden areas
+Quitar las zonas ocultas de esta secuencia ⇒ Remove the hidden areas of this sequence
+Exportar imagen (PNG) ⇒ Export image (PNG)
+Guardar el cuadro actual como imagen PNG anonimizada ⇒ Save the current frame as an anonymized PNG image
+Exportar video ⇒ Export video
+Guardar la secuencia como video anonimizado ⇒ Save the sequence as an anonymized video
+Medidas a Excel (.xlsx) ⇒ Measurements to Excel (.xlsx)
+Guardar las medidas y los cálculos de este estudio en un archivo de Excel ⇒ Save this study's measurements and calculations to an Excel file
+Incluir las medidas ⇒ Include measurements
+Pantalla completa de la imagen ⇒ Full-screen image
+Pantalla completa de la imagen (F) ⇒ Full-screen image (F)
+Este navegador no permite pantalla completa aquí. Prueba con F11 en Windows o Ctrl+Cmd+F en Mac. ⇒ This browser does not allow full screen here. Try F11 on Windows or Ctrl+Cmd+F on Mac.
+Este navegador no permite grabar video. Exporta imágenes sueltas. ⇒ This browser cannot record video. Export individual images.
+Si la imagen tiene el nombre del paciente quemado, usa «Ocultar zona» antes de exportar. ⇒ If the patient's name is burned into the image, use “Hide area” before exporting.
+Grabando video… ⇒ Recording video…
+Atajos ⇒ Shortcuts
+Atajos de teclado y ratón ⇒ Keyboard and mouse shortcuts
+Espacio ⇒ Space
+reproducir o pausar ⇒ play or pause
+cuadro anterior y siguiente ⇒ previous and next frame
+secuencia anterior y siguiente ⇒ previous and next sequence
+ir a telediástole y telesístole ⇒ go to end-diastole and end-systole
+marcarlas a mano ⇒ mark them manually
+Rueda ⇒ Wheel
+cuadro a cuadro ⇒ frame by frame
+Clic derecho ⇒ Right-click
+medidas libres (arrastrar: mover) ⇒ free measurements (drag: pan)
+Doble clic ⇒ Double-click
+vista ampliada ⇒ enlarged view
+panel de medidas · herramientas ⇒ measurement panel · tools
+pantalla completa de la imagen ⇒ full-screen image
+herramienta de zoom ⇒ zoom tool
+Esc ⇒ Esc
+cancelar medida o salir ⇒ cancel measurement or exit
+Supr ⇒ Del
+Ctrl Z ⇒ Ctrl Z
+Ocultar herramientas ⇒ Hide tools
+Ocultar herramientas (H) ⇒ Hide tools (H)
+Minimizar el panel ⇒ Minimize the panel
+Minimizar el panel (M) ⇒ Minimize the panel (M)
+Mostrar el panel de medidas (M) ⇒ Show the measurement panel (M)
+Paciente · Medidas · Reporte ⇒ Patient · Measurements · Report
+Salir de la vista ampliada ⇒ Exit the enlarged view
+Volver a la vista normal (Esc o doble clic) ⇒ Back to the normal view (Esc or double-click)
+Imagen. La rueda del mouse cambia de cuadro. ⇒ Image. The mouse wheel changes the frame.
+Imagen única ⇒ Single image
+Clip de ejemplo ⇒ Sample clip
+Clip de ejemplo sintético ⇒ Synthetic sample clip
+Ejemplo sintético ⇒ Synthetic example
+Clip sintético para probar el visor y las mediciones. No es un paciente. ⇒ Synthetic clip to test the viewer and the measurements. It is not a patient.
+Cine eje corto (ejemplo sintético) ⇒ Short-axis cine (synthetic example)
+Simulado en el navegador ⇒ Simulated in the browser
+Eje corto ⇒ Short axis
+Esa ventana muestra un estudio anterior; las medidas se hacen en el estudio actual. ⇒ That viewport shows a previous study; measurements are made on the current study.
+Estudio anterior ⇒ Previous study
+Comparar con ⇒ Compare with

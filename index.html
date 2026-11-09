@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cardón · Visor DICOM cardiovascular libre</title>
+<meta name="description" content="Cardón: visor DICOM libre y gratuito para ecocardiografía, angiografía coronaria, TC y RM cardíacas. Funciona sin internet; las imágenes no salen del computador. Uso educativo.">
+<meta property="og:title" content="Cardón · Visor DICOM cardiovascular libre">
+<meta property="og:description" content="Ecocardiograma, angiografía coronaria, TC y RM cardíacas en un solo archivo. Libre, gratuito y sin internet. Uso educativo.">
+<meta property="og:image" content="img/captura-inicio.png">
+<link rel="icon" href="img/cardon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  color-scheme: dark;
+  --ink: #0a0e0f; --panel: #12191b; --raise: #1a2427; --line: #27353a;
+  --text: #d8e1df; --muted: #8c9c97; --amber: #e7b24a; --amber-soft: rgba(231, 178, 74, 0.12); --cyan: #62c6c4;
+  --f-brand: "Outfit", "IBM Plex Sans", system-ui, sans-serif;
+  --f-display: "IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--ink); color: var(--text); font: 16px/1.6 var(--f-body); }
+a { color: var(--amber); text-underline-offset: 3px; }
+a:hover { color: #f3c96f; }
+:focus-visible { outline: 2px solid var(--amber); outline-offset: 3px; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
+header.top { position: sticky; top: 0; z-index: 5; background: rgba(10, 14, 15, 0.88); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+header.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 64px; }
+.brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; }
+.brand svg { width: 30px; height: 28px; }
+.brand b { font: 500 24px/1 var(--f-brand); letter-spacing: 0.01em; }
+.brand small { color: var(--muted); font: 500 12px/1 var(--f-display); letter-spacing: 0.08em; text-transform: uppercase; }
+nav { display: flex; gap: 20px; align-items: center; }
+nav a { color: var(--muted); text-decoration: none; font-size: 14px; }
+nav a:hover { color: var(--text); }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 11px 18px; border-radius: 8px; border: 1px solid var(--line); background: var(--raise); color: var(--text); font: 500 15px/1.2 var(--f-body); text-decoration: none; }
+.btn:hover { border-color: var(--muted); color: var(--text); }
+.btn.primary { background: var(--amber); border-color: var(--amber); color: #1a1408; }
+.btn.primary:hover { background: #f0c164; color: #1a1408; }
+.btn svg { width: 18px; height: 18px; flex: none; }
+nav .btn { padding: 8px 14px; font-size: 14px; }
+.hero { padding: 72px 16px 40px; display: grid; grid-template-columns: 1.05fr 1fr; gap: 48px; align-items: center; }
+.eyebrow { font: 500 13px/1 var(--f-display); letter-spacing: 0.1em; text-transform: uppercase; color: var(--amber); margin: 0 0 14px; }
+h1 { font: 500 clamp(34px, 5vw, 52px)/1.08 var(--f-brand); margin: 0 0 18px; letter-spacing: -0.01em; text-wrap: balance; }
+.lead { color: var(--muted); font-size: 18px; margin: 0 0 28px; max-width: 34em; }
+.cta { display: flex; flex-wrap: wrap; gap: 12px; }
+.meta { margin-top: 16px; color: var(--muted); font: 13px/1.5 var(--f-mono); }
+.shot { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--panel); box-shadow: 0 24px 60px rgba(0, 0, 0, 0.45); }
+.shot img { display: block; width: 100%; height: auto; }
+section { padding: 56px 0; border-top: 1px solid var(--line); }
+h2 { font: 500 30px/1.2 var(--f-brand); margin: 0 0 8px; }
+.sub { color: var(--muted); margin: 0 0 32px; max-width: 46em; }
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 22px; }
+.card h3 { font: 600 17px/1.3 var(--f-body); margin: 10px 0 8px; }
+.card p, .card li { color: var(--muted); font-size: 15px; }
+.card ul { margin: 0; padding-left: 18px; }
+.card li { margin: 2px 0; }
+.ico { width: 34px; height: 34px; border-radius: 8px; display: grid; place-items: center; background: var(--amber-soft); color: var(--amber); }
+.ico svg { width: 20px; height: 20px; }
+.steps { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+ol.num { margin: 0; padding: 0; list-style: none; counter-reset: s; }
+ol.num li { counter-increment: s; position: relative; padding: 0 0 14px 40px; color: var(--muted); }
+ol.num li::before { content: counter(s); position: absolute; left: 0; top: 0; width: 26px; height: 26px; border-radius: 50%; background: var(--amber-soft); color: var(--amber); font: 600 13px/26px var(--f-mono); text-align: center; }
+ol.num b, .card b { color: var(--text); font-weight: 500; }
+code { font: 14px var(--f-mono); background: var(--raise); border: 1px solid var(--line); border-radius: 4px; padding: 1px 6px; color: var(--text); }
+.notice { border: 1px solid rgba(231, 178, 74, 0.45); background: var(--amber-soft); border-radius: 10px; padding: 22px 24px; }
+.notice h2 { font-size: 22px; }
+.notice p { margin: 6px 0 0; color: var(--text); }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font: 500 12px/1.4 var(--f-display); letter-spacing: 0.08em; text-transform: uppercase; }
+td { color: var(--muted); }
+td:first-child { color: var(--text); }
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); }
+footer { border-top: 1px solid var(--line); padding: 32px 0 48px; color: var(--muted); font-size: 14px; }
+footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; }
+.en { color: var(--muted); font-size: 15px; }
+@media (max-width: 900px) {
+  .hero { grid-template-columns: 1fr; padding-top: 40px; gap: 32px; }
+  .grid { grid-template-columns: 1fr 1fr; }
+  .steps { grid-template-columns: 1fr; }
+  nav a:not(.btn) { display: none; }
+}
+@media (max-width: 600px) {
+  .grid { grid-template-columns: 1fr; }
+  .brand small { display: none; }
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#" aria-label="Cardón, inicio">
+      <svg viewBox="0 3 35 33" aria-hidden="true"><g fill="none" stroke="#e7b24a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M1 30H8.5L11 23L13.5 34L15.5 30H17"/><path d="M17 30V6"/><path d="M17 21H12.5A2.5 2.5 0 0 1 10 18.5V13"/><path d="M17 16H21.5A2.5 2.5 0 0 0 24 13.5V9"/><path d="M17 30H33"/></g></svg>
+      <b>Cardón</b><small>Imágenes cardiovasculares</small>
+    </a>
+    <nav aria-label="Secciones">
+      <a href="#funciones">Funciones</a>
+      <a href="#instalar">Instalar</a>
+      <a href="#privacidad">Privacidad</a>
+      <a href="#licencia">Licencia</a>
+      <a class="btn" href="app/">Abrir Cardón</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap hero">
+    <div>
+      <p class="eyebrow">Software libre · Uso educativo</p>
+      <h1>Visor DICOM para imágenes cardiovasculares</h1>
+      <p class="lead">Ecocardiograma, angiografía coronaria, TC y RM cardíacas en un solo programa, con pacientes, mediciones y reporte. Gratis, sin internet, y las imágenes nunca salen de tu computador.</p>
+      <div class="cta">
+        <a class="btn primary" href="descargas/Cardon-instalador.zip" download>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></svg>
+          Descargar para Windows y Linux
+        </a>
+        <a class="btn" href="app/">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/></svg>
+          Usar en el navegador
+        </a>
+      </div>
+      <p class="meta">Versión 1.1 · instalador de 1 MB · Edge o Chrome · Licencia GNU GPL v3</p>
+    </div>
+    <div class="shot"><img src="img/captura-inicio.png" width="1440" height="860" alt="Pantalla de inicio de Cardón: importar estudios desde CD, carpeta, archivos DICOM o .zip, y lista de pacientes."></div>
+  </div>
+
+  <section id="funciones">
+    <div class="wrap">
+      <h2>Qué hace</h2>
+      <p class="sub">Abre los estudios desde un CD, una carpeta o un .zip. El paciente y el estudio se crean solos con los datos del archivo DICOM.</p>
+      <div class="grid">
+        <div class="card">
+          <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l2-5 3 10 2-5h7"/></svg></div>
+          <h3>Ecocardiograma</h3>
+          <ul><li>Dimensiones, masa y volúmenes por Simpson</li><li>Doppler: velocidades, ITV, gradientes y áreas valvulares</li><li>Modo M anatómico y motilidad en 17 segmentos</li><li>Modo guiado en el orden habitual del estudio</li></ul>
+        </div>
+        <div class="card">
+          <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v6"/><path d="M12 9c-3 2-5 5-5 9"/><path d="M12 9c3 2 5 5 5 9"/><path d="M12 13v8"/></svg></div>
+          <h3>Angiografía coronaria</h3>
+          <ul><li>QCA semiautomático (estenosis por diámetro)</li><li>Conteo de cuadros TIMI y blush miocárdico</li><li>Árbol coronario con lesiones por segmento</li><li>Medidas libres de raíz y aorta ascendente</li></ul>
+        </div>
+        <div class="card">
+          <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M4 12h16"/><path d="M12 4v16"/></svg></div>
+          <h3>TC cardíaca</h3>
+          <ul><li>Score de calcio de Agatston por arteria</li><li>Angio-TC coronaria con CAD-RADS 2.0</li><li>Reconstrucción multiplanar, planos oblicuos y MIP</li><li>Reconstrucción curva de una coronaria</li></ul>
+        </div>
+        <div class="card">
+          <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.5"/></svg></div>
+          <h3>RM cardíaca</h3>
+          <ul><li>Cines con reproducción sincronizada</li><li>Contornos semiautomáticos de las cavidades</li><li>Volúmenes, fracción de eyección y masa</li></ul>
+        </div>
+        <div class="card">
+          <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 13h7M9 17h5"/></svg></div>
+          <h3>Pacientes y reportes</h3>
+          <ul><li>Base de pacientes en el propio computador</li><li>Reporte en Word con tu encabezado y logo</li><li>Medidas de todos los estudios a Excel</li><li>Caso anonimizado (.zip) para docencia</li></ul>
+        </div>
+        <div class="card">
+          <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"/></svg></div>
+          <h3>Sin internet y bilingüe</h3>
+          <ul><li>Un solo archivo que funciona sin conexión</li><li>Copia rápida de los CD al computador</li><li>Español e inglés</li><li>Contraseña opcional para los datos</li></ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="instalar">
+    <div class="wrap">
+      <h2>Instalar</h2>
+      <p class="sub">No necesita permisos de administrador ni internet. Abre maximizado, como un programa, con su propio icono.</p>
+      <div class="steps">
+        <div class="card">
+          <h3>Windows</h3>
+          <ol class="num">
+            <li><a href="descargas/Cardon-instalador.zip" download>Descarga el instalador</a> y descomprímelo (clic derecho → <b>Extraer todo</b>).</li>
+            <li>Doble clic en <b>Instalar Cardon.bat</b>. Si Windows avisa, elige <b>Más información → Ejecutar de todas formas</b>.</li>
+            <li>Abre Cardón con el icono del Escritorio o del menú Inicio.</li>
+          </ol>
+          <p>Para actualizar, ejecuta de nuevo el instalador de la versión nueva: los pacientes se conservan.</p>
+        </div>
+        <div class="card">
+          <h3>Linux (Ubuntu)</h3>
+          <ol class="num">
+            <li>Descarga y descomprime el mismo instalador.</li>
+            <li>En una terminal, dentro de la carpeta: <code>sh instalar-linux.sh</code></li>
+            <li>Abre Cardón desde el menú de aplicaciones.</li>
+          </ol>
+          <p>Necesita Chrome, Chromium o Edge. También puedes <a href="app/">usarlo directamente en el navegador</a>, sin instalar.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="privacidad">
+    <div class="wrap">
+      <h2>Privacidad</h2>
+      <p class="sub">Todo se procesa y se guarda en el computador donde se usa. Cardón no tiene servidor, no envía imágenes ni datos a internet y no usa cuentas. Cada computador tiene su propia base de pacientes; para pasarla a otro, usa la copia de seguridad.</p>
+      <div class="notice" role="note">
+        <h2>Solo para uso educativo</h2>
+        <p>Cardón es una herramienta de revisión y docencia. No es un dispositivo médico, no está certificado para diagnóstico y no reemplaza el software del equipo ni la valoración del especialista. Se entrega tal cual, sin garantía de ningún tipo.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="licencia">
+    <div class="wrap">
+      <h2>Licencia y código</h2>
+      <p class="sub">Cardón es software libre bajo la <a href="LICENSE">GNU GPL v3</a> o posterior: puedes usarlo, copiarlo, estudiarlo, modificarlo y compartirlo sin costo. Quien distribuya versiones modificadas debe mantenerlas libres y con su código. El código fuente está en la carpeta <a id="srcLink" href="codigo/COMO-COMPILAR.txt">codigo</a> de este repositorio.</p>
+      <div class="tablewrap">
+        <table>
+          <thead><tr><th>Componente incluido</th><th>Uso</th><th>Licencia</th></tr></thead>
+          <tbody>
+            <tr><td>dicomParser</td><td>Lectura de archivos DICOM</td><td>MIT</td></tr>
+            <tr><td>OpenJPEG (codec de Cornerstone)</td><td>Imágenes JPEG 2000</td><td>BSD-2-Clause · MIT</td></tr>
+            <tr><td>CharLS (codec de Cornerstone)</td><td>Imágenes JPEG-LS</td><td>BSD-3-Clause · MIT</td></tr>
+            <tr><td>jpeg-lossless-decoder-js</td><td>Imágenes JPEG sin pérdida</td><td>MIT</td></tr>
+            <tr><td>JSZip</td><td>Archivos .zip</td><td>MIT o GPLv3</td></tr>
+            <tr><td>docx</td><td>Reportes en Word</td><td>MIT</td></tr>
+            <tr><td>IBM Plex y Outfit</td><td>Tipografías</td><td>SIL Open Font License 1.1</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="en" lang="en"><b>English:</b> Cardón is a free (GPL v3) DICOM viewer for echocardiography, coronary angiography and cardiac CT and MRI. It runs offline in Edge or Chrome and keeps all images and data on your own computer. It can be switched to English in Settings. For education only; not a medical device.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Cardón · Dr. Martín Arrieta · <a href="mailto:martinarrieta@outlook.com">martinarrieta@outlook.com</a></span>
+    <span>Software libre · GNU GPL v3</span>
+  </div>
+</footer>
+<script>
+  /* En GitHub Pages, el enlace al código lleva al repositorio */
+  (function () {
+    var h = location.hostname, m = h.match(/^([^.]+)\.github\.io$/);
+    if (!m) return;
+    var repo = location.pathname.split('/').filter(Boolean)[0];
+    var a = document.getElementById('srcLink');
+    a.href = 'https://github.com/' + m[1] + '/' + (repo || (m[1] + '.github.io')) + '/tree/main/codigo';
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+# ---- Verificación de cálculos ----
+Angiografía: vasos con lesión significativa (TCI 60 %, DA 80 %, Cx 50 %, DP 90 %) ⇒ Angiography: vessels with significant lesions (LM 60 %, LAD 80 %, LCx 50 %, PDA 90 %)
+CAF del VD (20 → 12 cm²) ⇒ RV FAC (20 → 12 cm²)
+FEVI Teichholz (DdVI 50, DsVI 35 mm) ⇒ LVEF Teichholz (LVIDd 50, LVIDs 35 mm)
+Gradiente pico aórtico 4,5 m/s ⇒ Aortic peak gradient 4.5 m/s
+Gradiente pico pulmonar (3,5 m/s) ⇒ Pulmonary peak gradient (3.5 m/s)
+Masa VI ASE (10/50/10 mm) ⇒ LV mass ASE (10/50/10 mm)
+ORE por PISA (r 10 mm, Va 40 cm/s, Vmax 5 m/s) ⇒ EROA by PISA (r 10 mm, Va 40 cm/s, Vmax 5 m/s)
+PAD por VCI (18 mm, colapso 61 % → 3 mmHg) ⇒ RAP by IVC (18 mm, collapse 61 % → 3 mmHg)
+PAD por VCI (24 mm, colapso 33 % → 15 mmHg) ⇒ RAP by IVC (24 mm, collapse 33 % → 15 mmHg)
+PSAP (IT 3 m/s, AD 3 mmHg) ⇒ PASP (TR 3 m/s, RA 3 mmHg)
+PSAP con PAD estimada por VCI (36 + 15) ⇒ PASP with RAP estimated by IVC (36 + 15)
+Qp/Qs (TSVD 22 mm, ITV 30; TSVI 20 mm, ITV 20) ⇒ Qp/Qs (RVOT 22 mm, VTI 30; LVOT 20 mm, VTI 20)
+Simpson biplano con dos vistas iguales ⇒ Biplane Simpson with two identical views
+Simpson, media elipse a 2,5 cm y L 8 cm (2/3·π·a²·L) ⇒ Simpson, half ellipse a 2.5 cm and L 8 cm (2/3·π·a²·L)
+Superficie corporal (Mosteller) 70 kg, 170 cm ⇒ Body surface area (Mosteller) 70 kg, 170 cm
+TAPSE/PSAP (18 mm / 39 mmHg) ⇒ TAPSE/PASP (18 mm / 39 mmHg)
+Volumen regurgitante (ORE × ITV 150 cm) ⇒ Regurgitant volume (EROA × VTI 150 cm)
+Área mitral 220/PHT (PHT 220 ms) ⇒ Mitral area 220/PHT (PHT 220 ms)
+Área tricuspídea 190/PHT (PHT 190 ms) ⇒ Tricuspid area 190/PHT (PHT 190 ms)
+Área valvular aórtica por continuidad ⇒ Aortic valve area by continuity
+Índice de excentricidad diastólico (36/30 mm) ⇒ Diastolic eccentricity index (36/30 mm)
+ITV de una onda triangular (100 cm/s, 0,3 s → 15 cm) ⇒ VTI of a triangular wave (100 cm/s, 0.3 s → 15 cm)
+Tiempo de hemipresión de una pendiente lineal ⇒ Pressure half-time of a linear slope
+Velocidad con corrección de ángulo de 60° (80 → 160 cm/s) ⇒ Velocity with 60° angle correction (80 → 160 cm/s)
+Velocidad respecto a la línea de base (80 px × 1 cm/s) ⇒ Velocity relative to the baseline (80 px × 1 cm/s)
+Distancia calibrada (100 px × 0,05 cm) ⇒ Calibrated distance (100 px × 0.05 cm)
+E/e' promedio (80 / 8) ⇒ Average E/e' (80 / 8)
+# ---- Varios ----
+Aún no hay medidas en este estudio. ⇒ There are no measurements in this study yet.
+Estenosis {}. El PHT pierde exactitud tras valvuloplastia o con alteración de la distensibilidad del VI o la AI. ⇒ Stenosis: {}. PHT loses accuracy after valvuloplasty or with altered LV or LA compliance.
+Rango {}. En la insuficiencia secundaria el PISA puede subestimar el orificio. ⇒ Range: {}. In secondary regurgitation PISA may underestimate the orifice.
+Rango {}. ⇒ Range: {}.
+Rango {} ⇒ Range: {}
+Vmax {} m/s: estenosis pulmonar {}. ⇒ Vmax {} m/s: pulmonary stenosis, {}.
+Cine eje corto (ejemplo sintético) ⇒ Short-axis cine (synthetic example)
+Versión de Cardón ⇒ Cardón version
+Cardón (Dr. Martín Arrieta) ⇒ Cardón (Dr. Martín Arrieta)
+Español ⇒ Español
+© 2026 Dr. Martín Arrieta ⇒ © 2026 Dr. Martín Arrieta
+Medidas_{}_{}.xlsx ⇒ Measurements_{}_{}.xlsx
+ECG en imagen ⇒ ECG in image
+Velocidad de insuficiencia tricuspídea ⇒ Tricuspid regurgitation velocity
+No se pudo generar el documento. ⇒ The document could not be generated.
+No hay frases guardadas. ⇒ No saved phrases.
+Dibujado en la imagen ⇒ Drawn in the image
+Corte ⇒ Slice
+Medida libre ⇒ Free measurement

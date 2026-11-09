@@ -1,0 +1,186 @@
+O haz 3 clics (anillo, anillo y ápex) para un borde automático. ⇒ Or make 3 clicks (annulus, annulus and apex) for an automatic border.
+O haz 3 clics (anillo, anillo y techo de la aurícula) para un borde automático. ⇒ Or make 3 clicks (annulus, annulus and atrial roof) for an automatic border.
+O haz un clic dentro de la onda para trazarla sola. ⇒ Or click inside the wave to trace it automatically.
+Ahora haz clic en el otro anillo. ⇒ Now click on the other annulus.
+Ahora haz clic en el techo de la aurícula. ⇒ Now click on the atrial roof.
+Ahora haz clic en el ápex (endocardio apical). ⇒ Now click on the apex (apical endocardium).
+Borde automático: revísalo; si no te convence, vuelve a medir trazando a mano. ⇒ Automatic border: review it; if you are not convinced, measure again tracing by hand.
+Borde automático con poca definición de la pared (lo que no se vio se completó con la forma esperada). Revísalo; si no te convence, trázalo a mano. ⇒ Automatic border with poor wall definition (what could not be seen was completed with the expected shape). Review it; if you are not convinced, trace it by hand.
+Envolvente automática: revísala; si no te convence, vuelve a medir trazando a mano. ⇒ Automatic envelope: review it; if you are not convinced, measure again tracing by hand.
+No hay espacio entre la línea de base y el borde del espectro. ⇒ There is no room between the baseline and the edge of the spectrum.
+No se encontró la onda en ese punto. Haz clic dentro de la onda o trázala a mano. ⇒ No wave found at that point. Click inside the wave or trace it by hand.
+Haz clic dentro de la onda. ⇒ Click inside the wave.
+La onda encontrada es muy corta. Trázala a mano. ⇒ The wave found is too short. Trace it by hand.
+Los puntos están muy cerca. Haz clic en los dos anillos y luego en el ápex. ⇒ The points are too close. Click on both annuli and then on the apex.
+La imagen todavía se está preparando. ⇒ The image is still loading.
+Motilidad segmentaria ⇒ Segmental wall motion
+Sin evaluar ⇒ Not scored
+IMS {} · {n}/17 ⇒ WMSI {} · {}/17
+Puntaje a aplicar ⇒ Score to apply
+1 · Normal ⇒ 1 · Normal
+2 · Hipocinesia ⇒ 2 · Hypokinesia
+3 · Acinesia ⇒ 3 · Akinesia
+4 · Discinesia ⇒ 4 · Dyskinesia
+Hipocinesia ⇒ Hypokinesia
+Acinesia ⇒ Akinesia
+Discinesia ⇒ Dyskinesia
+Elige el puntaje y haz clic en los segmentos (otro clic con el mismo puntaje lo borra). Anterior arriba, septo a la izquierda; basales afuera, ápex al centro. ⇒ Choose the score and click the segments (clicking again with the same score clears it). Anterior at the top, septum on the left; basal outside, apex in the center.
+Los demás, normales ⇒ The rest, normal
+Limpiar ⇒ Clear
+Índice de motilidad (IMS) ⇒ Wall motion score index (WMSI)
+Referencia: 1,00 · {n} de 17 segmentos evaluados ⇒ Reference: 1.00 · {} of 17 segments scored
+1,00 · {n} de 17 segmentos ⇒ 1.00 · {} of 17 segments
+{n} de 17 segmentos ⇒ {} of 17 segments
+Segmento ⇒ Segment
+Nombre ⇒ Name
+Puntaje ⇒ Score
+Motilidad ⇒ Wall motion
+IMS ⇒ WMSI
+Estenosis automática (QCA) ⇒ Automatic stenosis (QCA)
+Arrastra a lo largo del vaso sin soltar, desde un tramo sano antes de la lesión hasta uno sano después. ⇒ Drag along the vessel without releasing, from a healthy segment before the lesion to a healthy one after it.
+El trazo es muy corto. Arrastra a lo largo del vaso, desde un tramo sano antes de la lesión hasta uno sano después. ⇒ The trace is too short. Drag along the vessel, from a healthy segment before the lesion to a healthy one after it.
+No se distinguen bien los bordes del vaso en este cuadro. Elige un cuadro con buen relleno de contraste o mide a mano. ⇒ The vessel borders are not clear in this frame. Choose a frame with good contrast filling or measure by hand.
+Forma de medir la estenosis ⇒ How to measure the stenosis
+Automática (QCA) ⇒ Automatic (QCA)
+Manual (2 diámetros) ⇒ Manual (2 diameters)
+Arrastras a lo largo del vaso y los bordes se detectan solos ⇒ You drag along the vessel and the borders are detected automatically
+Mides a mano el diámetro de referencia y el de la lesión ⇒ You measure the reference and lesion diameters by hand
+Pulsa un segmento del árbol o de la lista y arrastra a lo largo del vaso, desde un tramo sano antes de la lesión hasta uno sano después. Usa un cuadro con buen relleno de contraste; calibra con el catéter para ver los mm. También puedes escribir el porcentaje. 100 % = oclusión total. ⇒ Click a segment on the tree or the list and drag along the vessel, from a healthy segment before the lesion to a healthy one after it. Use a frame with good contrast filling; calibrate with the catheter to see mm. You can also type the percentage. 100 % = total occlusion.
+Pulsa un segmento del árbol o de la lista para medir la estenosis sobre la imagen (primero el vaso de referencia y luego la lesión). También puedes escribir el porcentaje. 100 % = oclusión total. ⇒ Click a segment on the tree or the list to measure the stenosis on the image (first the reference vessel and then the lesion). You can also type the percentage. 100 % = total occlusion.
+Esquema orientativo; con dominancia izquierda la DP y la PL dependen de la Cx. ⇒ Schematic only; with left dominance the PDA and PL arise from the LCx.
+Sistema izquierdo ⇒ Left system
+Árbol coronario ⇒ Coronary tree
+Oclusión ⇒ Occlusion
+oc. ⇒ occl.
+Grado de flujo TIMI ⇒ TIMI flow grade
+Grado de blush miocárdico (0 a 3) ⇒ Myocardial blush grade (0 to 3)
+QCA: DE {} % · DLM {} mm · DR {} mm ⇒ QCA: DS {} % · MLD {} mm · RD {} mm
+QCA: DE {} % (calibra con el catéter para ver los mm) ⇒ QCA: DS {} % (calibrate with the catheter to see mm)
+Longitud de la lesión {} mm ⇒ Lesion length {} mm
+QCA · DLM {} mm · DR {} mm · longitud {} mm ⇒ QCA · MLD {} mm · RD {} mm · length {} mm
+QCA · sin calibración (solo %) ⇒ QCA · not calibrated (% only)
+{}: estenosis de {} % por QCA. Revisa los bordes sobre la imagen; si no te convencen, mide a mano. ⇒ {}: {} % stenosis by QCA. Review the borders on the image; if you are not convinced, measure by hand.
+QCA: estenosis de {} %. Revisa los bordes sobre la imagen. ⇒ QCA: {} % stenosis. Review the borders on the image.
+{} % (QCA, DLM {} mm) ⇒ {} % (QCA, MLD {} mm)
+{} % (QCA) ⇒ {} % (QCA)
+Método ⇒ Method
+DLM (mm) ⇒ MLD (mm)
+DR (mm) ⇒ RD (mm)
+Longitud (mm) ⇒ Length (mm)
+Escrito ⇒ Typed
+Calibrador ⇒ Caliper
+Flujo TIMI ⇒ TIMI flow
+Blush ⇒ Blush
+Cuadros ⇒ Frames
+Cuadros/s ⇒ Frames/s
+Conteo TIMI ⇒ TIMI count
+Conteo corregido ⇒ Corrected count
+Conteo de cuadros TIMI ⇒ TIMI frame count
+Sin medir ⇒ Not measured
+Avanza cuadro a cuadro: marca el primer cuadro en que el contraste llena el origen del vaso de borde a borde y el cuadro en que llega al hito distal. Se corrige a 30 cuadros/s; en la DA se divide entre 1,7. ⇒ Step frame by frame: mark the first frame in which contrast fills the vessel origin from border to border and the frame in which it reaches the distal landmark. Corrected to 30 frames/s; in the LAD it is divided by 1.7.
+hito: bigote distal de la DA («pata de ganso» apical) ⇒ landmark: distal LAD bifurcation (apical "moustache")
+hito: bifurcación distal de la rama marginal más larga ⇒ landmark: distal bifurcation of the longest marginal branch
+hito: primera rama posterolateral ⇒ landmark: first posterolateral branch
+Marcar inicio ⇒ Mark start
+Marcar final ⇒ Mark end
+Inicio: cuadro {n} ⇒ Start: frame {}
+Final: cuadro {n} ⇒ End: frame {}
+{n} cuadros a {} cuadros/s ⇒ {} frames at {} frames/s
+corregido {} ⇒ corrected {}
+lento ⇒ slow
+Referencia: {} ± {} (DA corregida) ⇒ Reference: {} ± {} (corrected LAD)
+Referencia: {} ± {} (Cx) ⇒ Reference: {} ± {} (LCx)
+Referencia: {} ± {} (CD) ⇒ Reference: {} ± {} (RCA)
+Conteo de cuadros TIMI en {} (corregido) ⇒ TIMI frame count in {} (corrected)
+Conteo de cuadros TIMI en {} ⇒ TIMI frame count in {}
+Blush miocárdico en {} ⇒ Myocardial blush in {}
+Grado {n} ⇒ Grade {}
+normal grado 3 ⇒ normal grade 3
+El cuadro final debe ser posterior al inicial. ⇒ The end frame must come after the start frame.
+Abre una secuencia de angiografía con varios cuadros. ⇒ Open an angiography sequence with several frames.
+Realce de la imagen ⇒ Image enhancement
+Ninguno ⇒ None
+Nitidez ⇒ Sharpen
+Suavizar ⇒ Smooth
+Imagen original ⇒ Original image
+Acentúa los bordes: útil para vasos finos en angiografía ⇒ Enhances edges: useful for small vessels in angiography
+Reduce el ruido (granulado) de la imagen ⇒ Reduces image noise (graininess)
+Realce de nitidez aplicado a esta secuencia. ⇒ Sharpening applied to this sequence.
+Suavizado aplicado a esta secuencia. ⇒ Smoothing applied to this sequence.
+Imagen original, sin realce. ⇒ Original image, no enhancement.
+Tamaño de la interfaz (letra, menús y paneles) ⇒ Interface size (text, menus and panels)
+Pequeño (90 %) ⇒ Small (90 %)
+Normal (100 %) ⇒ Normal (100 %)
+Grande (112 %) ⇒ Large (112 %)
+Más grande (125 %) ⇒ Larger (125 %)
+Muy grande (140 %) ⇒ Very large (140 %)
+línea de base ⇒ baseline
+Arrastrar secuencia ⇒ Drag a sequence
+desde la lista hasta cualquier ventana ⇒ from the list to any viewport
+Uso exclusivamente educativo ⇒ Educational use only
+Antes de empezar ⇒ Before you start
+Cardón · uso exclusivamente educativo ⇒ Cardón · educational use only
+Cardón es una herramienta para <b>enseñar y aprender</b> imágenes cardiovasculares: eco, angiografía, TC y resonancia. ⇒ Cardón is a tool to <b>teach and learn</b> cardiovascular imaging: echo, angiography, CT and MR.
+Entiendo que Cardón es una herramienta educativa y no un dispositivo médico ⇒ I understand that Cardón is an educational tool and not a medical device
+Continuar ⇒ Continue
+Documento generado con Cardón con fines educativos. No es un informe médico ni reemplaza la valoración del especialista. ⇒ Document generated with Cardón for educational purposes. It is not a medical report and does not replace the specialist's assessment.
+Cardón usa estos componentes de código abierto, cada uno bajo su propia licencia, que permite redistribuirlo. Sus autores no participan en Cardón ni lo respaldan. ⇒ Cardón uses these open-source components, each under its own license, which allows redistribution. Their authors are not involved in Cardón and do not endorse it.
+Componente ⇒ Component
+Licencia ⇒ License
+Fuente ⇒ Source
+Los textos completos de estas licencias están en los enlaces de cada componente. Los nombres y marcas pertenecen a sus dueños. ⇒ The full texts of these licenses are at each component's link. Names and trademarks belong to their owners.
+Lectura de archivos DICOM ⇒ Reading DICOM files
+Imágenes JPEG 2000 ⇒ JPEG 2000 images
+Imágenes JPEG-LS ⇒ JPEG-LS images
+Imágenes JPEG sin pérdida ⇒ Lossless JPEG images
+Archivos .zip, copias de seguridad y Excel ⇒ .zip files, backups and Excel
+Reportes en Word ⇒ Word reports
+Tipografías ⇒ Typefaces
+Tipografía del logotipo ⇒ Logo typeface
+enseñar y aprender ⇒ teach and learn
+imágenes cardiovasculares: eco, angiografía, TC y resonancia. ⇒ cardiovascular imaging: echo, angiography, CT and MR.
+Cardón es una herramienta para ⇒ Cardón is a tool to
+No es un dispositivo médico ⇒ It is not a medical device
+ni un programa de diagnóstico, y no tiene registro ante el INVIMA ni ante otra autoridad sanitaria. ⇒ nor diagnostic software, and it is not registered with INVIMA or any other health authority.
+No debe usarse para diagnosticar, tratar ni emitir informes oficiales. ⇒ It must not be used to diagnose, treat or issue official reports.
+Las medidas, los cálculos y las funciones automáticas (contornos, QCA, conclusiones) son aproximaciones didácticas y pueden tener errores. ⇒ Measurements, calculations and automatic functions (contours, QCA, conclusions) are teaching approximations and may contain errors.
+Las decisiones clínicas se basan en el equipo de origen y en el informe del especialista responsable. ⇒ Clinical decisions are based on the source equipment and on the report of the responsible specialist.
+Las imágenes y los datos se quedan en este computador. Quien usa Cardón es responsable de anonimizar los estudios y de proteger los datos de los pacientes según la ley de protección de datos que aplique. ⇒ Images and data stay on this computer. Whoever uses Cardón is responsible for anonymizing the studies and protecting patient data according to the applicable data protection law.
+Se entrega ⇒ Provided
+tal cual, sin garantía ⇒ as is, without warranty
+. El autor no se hace responsable del uso que se le dé. ⇒ . The author is not responsible for how it is used.
+BSD-2-Clause (OpenJPEG) · MIT (adaptación) ⇒ BSD-2-Clause (OpenJPEG) · MIT (wrapper)
+BSD-3-Clause (CharLS) · MIT (adaptación) ⇒ BSD-3-Clause (CharLS) · MIT (wrapper)
+CharLS (codec-charls de Cornerstone) ⇒ CharLS (Cornerstone codec-charls)
+OpenJPEG (codec-openjpeg de Cornerstone) ⇒ OpenJPEG (Cornerstone codec-openjpeg)
+IBM Plex Sans, Sans Condensed y Mono ⇒ IBM Plex Sans, Sans Condensed and Mono
+© Stuart Knightley y colaboradores ⇒ © Stuart Knightley and contributors
+© Université catholique de Louvain y colaboradores de OpenJPEG; © Chris Hafey ⇒ © Université catholique de Louvain and OpenJPEG contributors; © Chris Hafey
+MIT (doble licencia MIT o GPL v3) ⇒ MIT (dual licensed MIT or GPL v3)
+© IBM Corp. (nombre reservado «Plex») ⇒ © IBM Corp. (Reserved Font Name "Plex")
+El trazo es muy corto. Recorre la onda de principio a fin sin soltar. ⇒ The trace is too short. Follow the wave from start to end without releasing.
+Revisando {n} de {n} archivos… ⇒ Checking {} of {} files…
+Este estudio ya está guardado en este computador: se abre la copia guardada, sin volver a leer el disco. ⇒ This study is already saved on this computer: opening the saved copy without reading the disc again.
+Este estudio ya estaba guardado en este computador: se abrió la copia guardada, sin volver a leer el disco. ⇒ This study was already saved on this computer: the saved copy was opened without reading the disc again.
+Copiando a la carpeta {n} de {n}… ⇒ Copying to the folder {} of {}…
+Abriendo el estudio desde la carpeta… ⇒ Opening the study from the folder…
+{n} imágenes en la carpeta de estudios ⇒ {} images in the studies folder
+Carpeta de estudios ⇒ Studies folder
+Al importar, sobre todo desde un CD, Cardón puede grabar una copia de los DICOM en una carpeta de este computador (dentro de «Estudios», una subcarpeta por paciente y fecha). Así no hace falta volver a leer el disco, y los archivos quedan a la vista para respaldarlos. ⇒ When importing, especially from a CD, Cardón can save a copy of the DICOM files in a folder on this computer (inside "Estudios", one subfolder per patient and date). That way the disc does not need to be read again, and the files are visible for backup.
+Elegir carpeta… ⇒ Choose folder…
+Cambiar carpeta… ⇒ Change folder…
+Dejar de usarla ⇒ Stop using it
+Disponible al usar Cardón desde el archivo Cardon.html en Chrome o Edge. ⇒ Available when using Cardón from the Cardon.html file in Chrome or Edge.
+Carpeta elegida: «{}». Con permiso de escritura. ⇒ Chosen folder: "{}". Write permission granted.
+Carpeta elegida: «{}». Chrome o Edge pedirán permiso la próxima vez que importes o abras un estudio. ⇒ Chosen folder: "{}". Chrome or Edge will ask for permission the next time you import or open a study.
+Aún no hay carpeta elegida. ⇒ No folder chosen yet.
+Las próximas importaciones se copiarán aquí. ⇒ Future imports will be copied here.
+No se pudo usar esa carpeta. Si estás en la versión de Claude, abre Cardon.html en Chrome o Edge. ⇒ That folder could not be used. If you are in the Claude version, open Cardon.html in Chrome or Edge.
+También se graba una copia de los DICOM en la carpeta «{}» → Estudios. ⇒ A copy of the DICOM files is also saved in the "{}" folder → Estudios.
+Grabar también los DICOM en una carpeta de este computador ⇒ Also save the DICOM files in a folder on this computer
+(recomendado al importar desde un CD). ⇒ (recommended when importing from a CD).
+Copia en la carpeta «{}» → Estudios ({n} archivos nuevos). ⇒ Copied to the "{}" folder → Estudios ({} new files).
+Copia en la carpeta «{}» → Estudios ({n} archivo nuevo). ⇒ Copied to the "{}" folder → Estudios ({} new file).
+Copia en la carpeta «{}» → Estudios. ⇒ Copied to the "{}" folder → Estudios.
+No se pudo copiar todo a la carpeta «{}». ⇒ Not everything could be copied to the "{}" folder.
+No se copió a la carpeta de estudios porque no se dio permiso; se puede dar en Configuración. ⇒ Not copied to the studies folder because permission was not granted; you can grant it in Settings.

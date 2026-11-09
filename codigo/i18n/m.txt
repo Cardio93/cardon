@@ -1,0 +1,35 @@
+Grosor ⇒ Thickness
+Fino ⇒ Thin
+Grosor del corte ⇒ Slice thickness
+Modo del corte grueso ⇒ Slab mode
+MIP ⇒ MIP
+Promedio ⇒ Average
+MinIP ⇒ MinIP
+Máxima intensidad: resalta el contraste y el calcio ⇒ Maximum intensity: highlights contrast and calcium
+Promedio: menos ruido ⇒ Average: less noise
+Mínima intensidad: resalta el aire y la grasa ⇒ Minimum intensity: highlights air and fat
+MIP {n} mm ⇒ MIP {} mm
+Promedio {n} mm ⇒ Average {} mm
+MinIP {n} mm ⇒ MinIP {} mm
+Reconstrucción curva de una coronaria ⇒ Curved reconstruction of a coronary artery
+Marca el recorrido de una coronaria y obtén una imagen estirada del vaso ⇒ Mark the course of a coronary artery and get a straightened image of the vessel
+Trazado de la coronaria: haz clic en el centro de la arteria, desde su origen, avanzando por su recorrido (usa la rueda para cambiar de corte). Enter o «Terminar» genera la imagen; Retroceso borra el último punto; Esc cancela. ⇒ Coronary tracing: click on the center of the artery, from its origin, moving along its course (use the wheel to change slices). Enter or "Finish" generates the image; Backspace deletes the last point; Esc cancels.
+Punto {n} marcado. Sigue por el recorrido o pulsa Enter para generar la imagen. ⇒ Point {} marked. Continue along the course or press Enter to generate the image.
+Punto {n} marcado. Marca el siguiente punto más adelante en la arteria. ⇒ Point {} marked. Mark the next point further along the artery.
+Trazado cancelado. ⇒ Tracing cancelled.
+Marca al menos dos puntos sobre la arteria. ⇒ Mark at least two points on the artery.
+El trazo es demasiado corto. ⇒ The trace is too short.
+Reconstrucción curva lista ({n} mm). La rueda sobre la imagen la gira alrededor del vaso; Ctrl + clic lleva los planos a ese punto. Puedes medir sobre ella como en cualquier imagen. ⇒ Curved reconstruction ready ({} mm). The wheel over the image rotates it around the vessel; Ctrl + click brings the planes to that point. You can measure on it like on any image.
+Reconstrucción curva ⇒ Curved reconstruction
+Reconstrucción curva · {n} mm ⇒ Curved reconstruction · {} mm
+Giro {n}° ⇒ Rotation {}°
+Longitud {n} mm ⇒ Length {} mm
+Curva {n} · {} ⇒ Curve {} · {}
+Terminar (Enter) ⇒ Finish (Enter)
+Deshacer punto ⇒ Undo point
+Curva ⇒ Curve
+clic en el centro del vaso · ⇒ click on the center of the vessel ·
+termina · ⇒ finishes ·
+borra el último punto · rueda: girar ⇒ deletes the last point · wheel: rotate
+punto marcado. Clic en el centro de la arteria, avanzando por su recorrido. ⇒ point marked. Click on the center of the artery, moving along its course.
+puntos marcados. Clic en el centro de la arteria, avanzando por su recorrido. ⇒ points marked. Click on the center of the artery, moving along its course.

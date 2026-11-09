@@ -1,0 +1,83 @@
+# ---- TC cardíaca ----
+TC cardíaca ⇒ Cardiac CT
+TC ⇒ CT
+Automático (TC cardíaca) ⇒ Automatic (cardiac CT)
+Tomografía cardíaca ⇒ Cardiac computed tomography
+{n} cortes ⇒ {} slices
+Corte {n} ⇒ Slice {}
+z {} mm ⇒ z {} mm
+Espesor {} mm ⇒ Thickness {} mm
+Espesor {} ⇒ Thickness {}
+Sin espesor ⇒ No thickness
+píxel {} mm ⇒ pixel {} mm
+Ventana {} · Nivel {} ⇒ Window {} · Level {}
+Ventana de TC ⇒ CT window
+Ventanas de TC ⇒ CT windows
+Mediastino ⇒ Mediastinum
+Angio-TC ⇒ CT angio
+Calcio ⇒ Calcium
+Pulmón ⇒ Lung
+Hueso ⇒ Bone
+Ancho {} · Nivel {} ⇒ Width {} · Level {}
+Ventana {}: ancho {}, nivel {} UH. ⇒ {} window: width {}, level {} HU.
+{n} UH ⇒ {} HU
+ROI de densidad ⇒ Density ROI
+Arrastra desde el centro hacia el borde: muestra el valor promedio (UH en TC). ⇒ Drag from the center to the edge: shows the mean value (HU on CT).
+Solo en imágenes en escala de grises (TC o RM) ⇒ Only on grayscale images (CT or MR)
+Solo en imágenes en escala de grises (TC o RM). ⇒ Only on grayscale images (CT or MR).
+El círculo es muy pequeño. ⇒ The circle is too small.
+ROI: {} ± {} ({} píxeles). ⇒ ROI: {} ± {} ({} pixels).
+Datos de la serie ⇒ Series data
+Serie ⇒ Series
+Cortes ⇒ Slices
+Espesor ⇒ Thickness
+Intervalo ⇒ Interval
+Píxel ⇒ Pixel
+Tensión ⇒ Tube voltage
+{} kV ⇒ {} kV
+Score de calcio coronario ⇒ Coronary artery calcium score
+Agatston ⇒ Agatston
+Usa la serie sin contraste. Elige la arteria y haz clic sobre cada placa de calcio (≥ 130 UH) en cada corte donde aparezca. Esc para terminar. ⇒ Use the non-contrast series. Choose the artery and click each calcified plaque (≥ 130 HU) on every slice where it appears. Esc to finish.
+El método de Agatston se definió con cortes de 3 mm; con cortes de {} mm el valor no es comparable con las tablas de referencia. ⇒ The Agatston method was defined with 3 mm slices; with {} mm slices the value is not comparable with reference tables.
+Resaltar en magenta lo que supera 130 UH ⇒ Highlight in magenta everything above 130 HU
+Marcar calcio en {} ⇒ Mark calcium in {}
+{n} lesión ⇒ {} lesion
+{n} lesiones ⇒ {} lesions
+Total de Agatston ⇒ Agatston total
+{n} mm³ ⇒ {} mm³
+Aún no hay lesiones marcadas. ⇒ No lesions marked yet.
+Revisé todos los cortes (permite informar un score de 0) ⇒ I reviewed all slices (allows reporting a score of 0)
+Lesiones ⇒ Lesions
+Ir al corte ⇒ Go to slice
+Borrar lesión ⇒ Delete lesion
+Lesión borrada. ⇒ Lesion deleted.
+Lesión borrada. Ctrl+Z para deshacer. ⇒ Lesion deleted. Ctrl+Z to undo.
+{} mm² · {} UH ⇒ {} mm² · {} HU
+Referencia: 0 sin calcio · 1–99 leve · 100–299 moderado · ≥ 300 severo (CAC-DRS, SCCT 2018). El score depende de marcar todas las placas. ⇒ Reference: 0 no calcium · 1–99 mild · 100–299 moderate · ≥ 300 severe (CAC-DRS, SCCT 2018). The score depends on marking every plaque.
+Sin calcio coronario detectable ⇒ No detectable coronary calcium
+Calcificación coronaria leve ⇒ Mild coronary calcification
+Calcificación coronaria moderada ⇒ Moderate coronary calcification
+Calcificación coronaria severa ⇒ Severe coronary calcification
+Calcio · {} ⇒ Calcium · {}
+Haz clic sobre cada placa de calcio de esta arteria, corte por corte. Esc para terminar. ⇒ Click each calcified plaque of this artery, slice by slice. Esc to finish.
+Esta serie no trae el tamaño del píxel; no se puede calcular el área. ⇒ This series has no pixel size; the area cannot be calculated.
+No hay calcio (≥ 130 UH) en ese punto. ⇒ No calcium (≥ 130 HU) at that point.
+La región es demasiado grande (más de 3 cm²): probablemente es hueso, la pared aórtica o contraste. ⇒ The region is too large (over 3 cm²): it is probably bone, the aortic wall or contrast.
+Lesión menor de 1 mm²: el método de Agatston no la cuenta. ⇒ Lesion smaller than 1 mm²: the Agatston method does not count it.
+{}: lesión de {} mm², pico {} UH, Agatston {}. Haz clic en otra lesión o Esc para terminar. ⇒ {}: lesion of {} mm², peak {} HU, Agatston {}. Click another lesion or Esc to finish.
+Score de calcio coronario (Agatston) ⇒ Coronary artery calcium score (Agatston)
+Score total de Agatston ⇒ Total Agatston score
+Volumen de calcio ⇒ Calcium volume
+Categoría ⇒ Category
+Arteria ⇒ Artery
+Corte ⇒ Slice
+Área (mm²) ⇒ Area (mm²)
+Pico (UH) ⇒ Peak (HU)
+Volumen (mm³) ⇒ Volume (mm³)
+Lesiones de calcio ⇒ Calcium lesions
+Score de calcio ⇒ Calcium score
+Total ⇒ Total
+Agatston {} ⇒ Agatston {}
+Agatston total ⇒ Total Agatston
+Volumen de calcio (mm³) ⇒ Calcium volume (mm³)
+UH ⇒ HU

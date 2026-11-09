@@ -1,0 +1,207 @@
+# ---- MPR ----
+Ver en 3 planos (MPR) ⇒ View in 3 planes (MPR)
+Reconstruir de nuevo (MPR) ⇒ Rebuild (MPR)
+Axial, coronal y sagital enlazados, con líneas de referencia. ⇒ Linked axial, coronal and sagittal views with reference lines.
+Axial, coronal y sagital enlazados: un clic lleva los otros planos a ese punto. ⇒ Linked axial, coronal and sagittal views: a click moves the other planes to that point.
+Preparando el volumen… ⇒ Preparing the volume…
+Preparando el volumen… {} ⇒ Preparing the volume… {}
+MPR listo: arriba el axial y el coronal, abajo el sagital. Un clic sobre la imagen lleva los otros planos a ese punto; la rueda pasa de corte en corte. ⇒ MPR ready: axial and coronal on top, sagittal below. A click on the image moves the other planes to that point; the wheel moves slice by slice.
+La reconstrucción necesita una serie axial de TC con al menos 8 cortes. ⇒ The reconstruction needs an axial CT series with at least 8 slices.
+Necesita una serie axial de TC con al menos 8 cortes ⇒ Needs an axial CT series with at least 8 slices
+No se pudo armar el volumen: {} ⇒ The volume could not be built: {}
+Los cortes de la serie no tienen el mismo tamaño. ⇒ The slices of the series do not have the same size.
+El score de calcio se marca en los cortes axiales. ⇒ Calcium is marked on the axial slices.
+Coronal ⇒ Coronal
+Sagital ⇒ Sagittal
+Coronal · {} ⇒ Coronal · {}
+Sagital · {} ⇒ Sagittal · {}
+MPR · {n} cortes ⇒ MPR · {} slices
+{n} cortes ⇒ {} slices
+Espesor {} ⇒ Thickness {}
+píxel {} ⇒ pixel {}
+Guardando imágenes {n} de {n}… ⇒ Saving images {} of {}…
+Score de calcio 3 mm ⇒ Calcium score 3 mm
+# ---- RM ----
+RM cardíaca ⇒ Cardiac MR
+Automático (RM cardíaca) ⇒ Automatic (cardiac MR)
+Resonancia magnética cardíaca ⇒ Cardiac magnetic resonance
+Volúmenes ⇒ Volumes
+Realce ⇒ Enhancement
+Mapas ⇒ Maps
+Flujo ⇒ Flow
+Telediástole: ⇒ End-diastole:
+Telesístole: ⇒ End-systole:
+sin elegir ⇒ not chosen
+Usar el cuadro actual ⇒ Use the current frame
+Busca el cuadro donde la cavidad del VI es más pequeña en un corte medio y márcalo como telesístole. ⇒ Find the frame where the LV cavity is smallest on a mid slice and mark it as end-systole.
+Telediástole: cuadro {} ⇒ End-diastole: frame {}
+Telesístole: cuadro {} ⇒ End-systole: frame {}
+Corte {n} ⇒ Slice {}
+Ver el corte {n} ⇒ View slice {}
+VI endo TD ⇒ LV endo ED
+VI endo TS ⇒ LV endo ES
+VI epi TD ⇒ LV epi ED
+VD endo TD ⇒ RV endo ED
+VD endo TS ⇒ RV endo ES
+{} · corte {n} ⇒ {} · slice {}
+Endocardio del VI en telediástole ⇒ LV endocardium at end-diastole
+Endocardio del VI en telesístole ⇒ LV endocardium at end-systole
+Epicardio del VI en telediástole ⇒ LV epicardium at end-diastole
+Endocardio del VD en telediástole ⇒ RV endocardium at end-diastole
+Endocardio del VD en telesístole ⇒ RV endocardium at end-systole
+{}, corte {n}: {} ⇒ {}, slice {}: {}
+Áreas en cm². Pulsa una casilla y traza el contorno en ese corte; la fase (TD o TS) se elige sola. Distancia entre cortes: {}. ⇒ Areas in cm². Click a cell and trace the contour on that slice; the phase (ED or ES) is chosen automatically. Distance between slices: {}.
+desconocida ⇒ unknown
+No hay una serie cine de eje corto con varios cortes. Importa el eje corto completo o escribe los volúmenes abajo. ⇒ There is no short-axis cine series with several slices. Import the complete short-axis stack or type the volumes below.
+Resultados ⇒ Results
+Traza los contornos o escribe los valores. ⇒ Trace the contours or type the values.
+Indica el sexo del paciente para comparar con las referencias. ⇒ Enter the patient's sex to compare with the references.
+Escribir valores de otra estación ⇒ Type values from another workstation
+VTD del VI (ml) ⇒ LV EDV (ml)
+VTS del VI (ml) ⇒ LV ESV (ml)
+Masa del VI (g) ⇒ LV mass (g)
+VTD del VD (ml) ⇒ RV EDV (ml)
+VTS del VD (ml) ⇒ RV ESV (ml)
+Si escribes un valor, reemplaza al calculado con los contornos. ⇒ A typed value replaces the one calculated from the contours.
+Referencias: Kawel-Boehm et al., JCMR 2020 (SSFP, músculos papilares dentro del volumen). ⇒ References: Kawel-Boehm et al., JCMR 2020 (SSFP, papillary muscles included in the volume).
+Recorre el contorno completo sin soltar; se cierra solo. Los músculos papilares quedan dentro del volumen. ⇒ Trace the whole contour without releasing; it closes automatically. Papillary muscles stay inside the volume.
+Traza el contorno en el corte elegido. ⇒ Trace the contour on the chosen slice.
+Volumen telediastólico del VI ⇒ LV end-diastolic volume
+Volumen telesistólico del VI ⇒ LV end-systolic volume
+Volumen latido del VI ⇒ LV stroke volume
+FEVI ⇒ LVEF
+Masa del VI ⇒ LV mass
+Volumen telediastólico del VD ⇒ RV end-diastolic volume
+Volumen telesistólico del VD ⇒ RV end-systolic volume
+Volumen latido del VD ⇒ RV stroke volume
+FEVD ⇒ RVEF
+VTD del VI indexado ⇒ Indexed LV EDV
+VTS del VI indexado ⇒ Indexed LV ESV
+Volumen latido del VI indexado ⇒ Indexed LV stroke volume
+Masa del VI indexada ⇒ Indexed LV mass
+VTD del VD indexado ⇒ Indexed RV EDV
+VTS del VD indexado ⇒ Indexed RV ESV
+Volumen latido del VD indexado ⇒ Indexed RV stroke volume
+Realce tardío ⇒ Late enhancement
+Edema (T2) ⇒ Edema (T2)
+Patrón ⇒ Pattern
+Transmuralidad ⇒ Transmurality
+No aplica ⇒ Not applicable
+Sin realce (borrar) ⇒ No enhancement (clear)
+Elige el patrón y pulsa los segmentos con realce. Pulsar de nuevo un segmento con el mismo patrón lo borra. ⇒ Choose the pattern and click the enhanced segments. Clicking a segment again with the same pattern clears it.
+Pulsa los segmentos con edema (hiperintensidad en T2 o T2 elevado en el mapa). ⇒ Click the segments with edema (T2 hyperintensity or increased T2 on the map).
+Diana de 17 segmentos ⇒ 17-segment bull's-eye
+Anterior arriba, septo a la izquierda. ⇒ Anterior at the top, septum on the left.
+Edema ⇒ Edema
+Edema en: {} ⇒ Edema in: {}
+Revisé el realce tardío (permite informar «sin realce») ⇒ I reviewed late enhancement (allows reporting “no enhancement”)
+Subendocárdico ⇒ Subendocardial
+Transmural ⇒ Transmural
+Mesocárdico ⇒ Mid-wall
+Subepicárdico ⇒ Subepicardial
+Puntos de inserción del VD ⇒ RV insertion points
+Difuso o parcheado ⇒ Diffuse or patchy
+{} · {n}–{n} % ⇒ {} · {}–{} %
+Basal anterior ⇒ Basal anterior
+Basal anteroseptal ⇒ Basal anteroseptal
+Basal inferoseptal ⇒ Basal inferoseptal
+Basal inferior ⇒ Basal inferior
+Basal inferolateral ⇒ Basal inferolateral
+Basal anterolateral ⇒ Basal anterolateral
+Medio anterior ⇒ Mid anterior
+Medio anteroseptal ⇒ Mid anteroseptal
+Medio inferoseptal ⇒ Mid inferoseptal
+Medio inferior ⇒ Mid inferior
+Medio inferolateral ⇒ Mid inferolateral
+Medio anterolateral ⇒ Mid anterolateral
+Apical anterior ⇒ Apical anterior
+Apical septal ⇒ Apical septal
+Apical inferior ⇒ Apical inferior
+Apical lateral ⇒ Apical lateral
+Ápex ⇒ Apex
+{n}. {} ⇒ {}. {}
+Realce tardío de gadolinio ⇒ Late gadolinium enhancement
+Edema miocárdico ⇒ Myocardial edema
+Miocardio ⇒ Myocardium
+Sin realce ⇒ No enhancement
+Presente ⇒ Present
+Mapas paramétricos ⇒ Parametric mapping
+Abre el mapa y pulsa «Medir» para trazar una región de interés: el valor promedio queda en la casilla. También puedes escribirlo. ⇒ Open the map and click a field name to draw a region of interest: the mean value goes into the box. You can also type it.
+T1 nativo del miocardio ⇒ Myocardial native T1
+T1 nativo de la sangre ⇒ Blood native T1
+T1 poscontraste del miocardio ⇒ Myocardial post-contrast T1
+T1 poscontraste de la sangre ⇒ Blood post-contrast T1
+T2 del miocardio ⇒ Myocardial T2
+Medir {} con una región de interés ⇒ Measure {} with a region of interest
+Arrastra desde el centro hacia el borde sobre el mapa para obtener el valor promedio. ⇒ Drag from the center to the edge on the map to obtain the mean value.
+Hematocrito (%) ⇒ Hematocrit (%)
+VEC ⇒ ECV
+Volumen extracelular (VEC) ⇒ Extracellular volume (ECV)
+Límites normales de tu equipo ⇒ Normal limits of your scanner
+definidos ⇒ defined
+sin definir ⇒ not defined
+T1 nativo máx. (ms) ⇒ Max native T1 (ms)
+T2 máx. (ms) ⇒ Max T2 (ms)
+VEC máx. (%) ⇒ Max ECV (%)
+Los valores normales de T1 y T2 dependen del campo magnético (1,5 o 3 T), del fabricante y de la secuencia: usa los de tu centro. VEC: si no defines otro, se toma > 30 % como elevado. ⇒ Normal T1 and T2 values depend on field strength (1.5 or 3 T), vendor and sequence: use those of your center. ECV: unless you set another value, > 30 % is taken as increased.
+VEC = (1 − hematocrito) × (ΔR1 miocardio / ΔR1 sangre), con R1 = 1/T1 antes y después del gadolinio. ⇒ ECV = (1 − hematocrit) × (ΔR1 myocardium / ΔR1 blood), with R1 = 1/T1 before and after gadolinium.
+{} ms (local) ⇒ {} ms (local)
+{} (aumentado) ⇒ {} (increased)
+{}: {} ± {} ({n} píxeles). ⇒ {}: {} ± {} ({} pixels).
+Abre la serie de ⇒ Open the
+(velocidad) del contraste de fase, elige el vaso y traza un círculo sobre su luz. El cálculo usa todos los cuadros del ciclo. ⇒ (velocity) phase-contrast series, choose the vessel and draw a circle over its lumen. The calculation uses all frames of the cycle.
+fase ⇒ phase
+VENC (cm/s) ⇒ VENC (cm/s)
+Los píxeles ya vienen en cm/s ⇒ Pixel values are already in cm/s
+Aorta ⇒ Aorta
+Arteria pulmonar ⇒ Pulmonary artery
+{} ml neto · FR {} % ⇒ {} ml net · RF {} %
+Anterógrado {} ml · retrógrado {} ml · velocidad pico {} cm/s · área {} cm² ⇒ Forward {} ml · backward {} ml · peak velocity {} cm/s · area {} cm²
+Fracción regurgitante (FR) = retrógrado / anterógrado. Orientativo en insuficiencia aórtica: < 20 % leve, 20–40 % moderada, > 40 % severa. Qp/Qs ≥ 1,5 sugiere cortocircuito significativo. ⇒ Regurgitant fraction (RF) = backward / forward. Approximate for aortic regurgitation: < 20 % mild, 20–40 % moderate, > 40 % severe. Qp/Qs ≥ 1.5 suggests a significant shunt.
+Flujo · {} ⇒ Flow · {}
+En la imagen de fase, arrastra desde el centro del vaso hasta su borde. El círculo se aplica a todos los cuadros del ciclo. ⇒ On the phase image, drag from the center of the vessel to its edge. The circle is applied to all frames of the cycle.
+Escribe la VENC (cm/s) en el panel de Flujo antes de medir. ⇒ Enter the VENC (cm/s) in the Flow panel before measuring.
+Usa la serie de fase con todos los cuadros del ciclo. ⇒ Use the phase series with all frames of the cycle.
+La serie no trae el tamaño del píxel. ⇒ The series does not include the pixel size.
+No se pudieron leer todos los cuadros. ⇒ Not all frames could be read.
+Calculando el flujo en todos los cuadros… ⇒ Calculating flow over all frames…
+{}: anterógrado {} ml, retrógrado {} ml, neto {} ml por latido. ⇒ {}: forward {} ml, backward {} ml, net {} ml per beat.
+Flujo por contraste de fase ⇒ Phase-contrast flow
+Flujo neto en aorta ⇒ Net aortic flow
+Flujo neto en arteria pulmonar ⇒ Net pulmonary flow
+Fracción regurgitante (aorta) ⇒ Regurgitant fraction (aorta)
+Fracción regurgitante (arteria pulmonar) ⇒ Regurgitant fraction (pulmonary artery)
+anterógrado {} · retrógrado {} ⇒ forward {} · backward {}
+Flujo en aorta ⇒ Aortic flow
+Flujo en arteria pulmonar ⇒ Pulmonary flow
+{} {n} ml ⇒ {} {} ml
+# ---- Excel RM ----
+Parámetro ⇒ Parameter
+Contornos ⇒ Contours
+Corte ⇒ Slice
+Estructura ⇒ Structure
+Área (cm²) ⇒ Area (cm²)
+Segmentos AHA ⇒ AHA segments
+Nombre ⇒ Name
+Sí ⇒ Yes
+Anterógrado (ml) ⇒ Forward (ml)
+Retrógrado (ml) ⇒ Backward (ml)
+Neto (ml) ⇒ Net (ml)
+Fracción regurgitante (%) ⇒ Regurgitant fraction (%)
+Velocidad pico (cm/s) ⇒ Peak velocity (cm/s)
+VTD VI (ml) ⇒ LV EDV (ml)
+VTD VI indexado (ml/m²) ⇒ Indexed LV EDV (ml/m²)
+VTS VI (ml) ⇒ LV ESV (ml)
+FEVI (%) ⇒ LVEF (%)
+Masa VI (g) ⇒ LV mass (g)
+Masa VI indexada (g/m²) ⇒ Indexed LV mass (g/m²)
+VTD VD (ml) ⇒ RV EDV (ml)
+VTD VD indexado (ml/m²) ⇒ Indexed RV EDV (ml/m²)
+FEVD (%) ⇒ RVEF (%)
+T1 nativo (ms) ⇒ Native T1 (ms)
+T2 (ms) ⇒ T2 (ms)
+VEC (%) ⇒ ECV (%)
+Segmentos con realce ⇒ Enhanced segments
+Patrón de realce ⇒ Enhancement pattern
+Segmentos con edema ⇒ Segments with edema
+FR aórtica (%) ⇒ Aortic RF (%)

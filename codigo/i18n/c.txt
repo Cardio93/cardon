@@ -1,0 +1,244 @@
+# ---- Medidas: secciones, grupos, nombres y ayudas ----
+Corazón izquierdo ⇒ Left heart
+Aorta y válvula aórtica ⇒ Aorta and aortic valve
+Válvula mitral ⇒ Mitral valve
+Corazón derecho ⇒ Right heart
+VI · dimensiones ⇒ LV · dimensions
+Paraesternal eje largo, 2D o modo M. ⇒ Parasternal long axis, 2D or M-mode.
+SIV en diástole ⇒ IVS in diastole
+Telediástole: grosor del septo interventricular. ⇒ End-diastole: interventricular septal thickness.
+DdVI ⇒ LVIDd
+Telediástole: de endocardio septal a endocardio posterior. ⇒ End-diastole: from septal endocardium to posterior endocardium.
+PP en diástole ⇒ PW in diastole
+Telediástole: grosor de la pared posterior. ⇒ End-diastole: posterior wall thickness.
+DsVI ⇒ LVIDs
+Telesístole: diámetro interno del VI. ⇒ End-systole: LV internal diameter.
+VI · volúmenes (Simpson) ⇒ LV · volumes (Simpson)
+Apicales. Traza el endocardio de un anillo mitral, por el ápex, al otro anillo. ⇒ Apical views. Trace the endocardium from one mitral annulus, around the apex, to the other annulus.
+Diástole 4C ⇒ Diastole 4C
+Apical 4 cámaras, telediástole: traza de anillo a anillo pasando por el ápex. ⇒ Apical 4-chamber, end-diastole: trace from annulus to annulus through the apex.
+Sístole 4C ⇒ Systole 4C
+Apical 4 cámaras, telesístole: traza de anillo a anillo pasando por el ápex. ⇒ Apical 4-chamber, end-systole: trace from annulus to annulus through the apex.
+Diástole 2C ⇒ Diastole 2C
+Apical 2 cámaras, telediástole: traza de anillo a anillo pasando por el ápex. ⇒ Apical 2-chamber, end-diastole: trace from annulus to annulus through the apex.
+Sístole 2C ⇒ Systole 2C
+Apical 2 cámaras, telesístole: traza de anillo a anillo pasando por el ápex. ⇒ Apical 2-chamber, end-systole: trace from annulus to annulus through the apex.
+Función diastólica ⇒ Diastolic function
+Doppler pulsado mitral y tisular del anillo. La velocidad de la insuficiencia tricuspídea, que también entra en el algoritmo, está en Corazón derecho → Presión pulmonar y vena cava. ⇒ Mitral pulsed-wave and annular tissue Doppler. The tricuspid regurgitation velocity, which is also part of the algorithm, is under Right heart → Pulmonary pressure and vena cava.
+Onda E ⇒ E wave
+Doppler pulsado mitral en la punta de los velos: clic en el pico de la onda E. ⇒ Mitral pulsed-wave Doppler at the leaflet tips: click the peak of the E wave.
+Onda A ⇒ A wave
+Doppler pulsado mitral: clic en el pico de la onda A. ⇒ Mitral pulsed-wave Doppler: click the peak of the A wave.
+Tiempo desaceleración E ⇒ E deceleration time
+Arrastra desde el pico de la onda E hasta donde la pendiente toca la línea de base. ⇒ Drag from the peak of the E wave to where the slope meets the baseline.
+e' septal ⇒ septal e'
+Doppler tisular del anillo mitral septal: clic en el pico de e'. ⇒ Tissue Doppler of the septal mitral annulus: click the peak of e'.
+e' lateral ⇒ lateral e'
+Doppler tisular del anillo mitral lateral: clic en el pico de e'. ⇒ Tissue Doppler of the lateral mitral annulus: click the peak of e'.
+Aurícula izquierda ⇒ Left atrium
+Telesístole. Excluye venas pulmonares y orejuela. ⇒ End-systole. Exclude the pulmonary veins and the appendage.
+Diámetro AP ⇒ AP diameter
+Paraesternal eje largo, telesístole: diámetro anteroposterior. ⇒ Parasternal long axis, end-systole: anteroposterior diameter.
+Contorno 4C ⇒ 4C contour
+Apical 4C, telesístole: traza la AI de anillo a anillo. ⇒ Apical 4C, end-systole: trace the LA from annulus to annulus.
+Contorno 2C ⇒ 2C contour
+Apical 2C, telesístole: traza la AI de anillo a anillo. ⇒ Apical 2C, end-systole: trace the LA from annulus to annulus.
+Aorta y tracto de salida ⇒ Aorta and outflow tract
+Paraesternal eje largo. ⇒ Parasternal long axis.
+Senos de Valsalva ⇒ Sinuses of Valsalva
+Diástole: diámetro máximo a nivel de los senos. ⇒ Diastole: maximal diameter at the level of the sinuses.
+Aorta ascendente ⇒ Ascending aorta
+Aorta ascendente proximal. ⇒ Proximal ascending aorta.
+Diámetro TSVI ⇒ LVOT diameter
+Mesosístole: diámetro del tracto de salida del VI. ⇒ Mid-systole: LV outflow tract diameter.
+Estenosis aórtica y flujo del TSVI ⇒ Aortic stenosis and LVOT flow
+Doppler pulsado en TSVI y continuo aórtico. ⇒ Pulsed-wave Doppler in the LVOT and continuous-wave aortic Doppler.
+ITV TSVI ⇒ LVOT VTI
+Doppler pulsado en el TSVI: traza el borde de la onda de principio a fin sin soltar. ⇒ Pulsed-wave Doppler in the LVOT: trace the edge of the wave from start to end without releasing.
+ITV aórtica ⇒ Aortic VTI
+Doppler continuo aórtico: traza el borde de la onda de principio a fin sin soltar. ⇒ Continuous-wave aortic Doppler: trace the edge of the wave from start to end without releasing.
+Vmax aórtica ⇒ Aortic Vmax
+Doppler continuo aórtico: clic en la velocidad máxima. ⇒ Continuous-wave aortic Doppler: click the peak velocity.
+Insuficiencia aórtica ⇒ Aortic regurgitation
+Doppler continuo del chorro en apical 5C y color en paraesternal eje largo. ⇒ Continuous-wave Doppler of the jet in apical 5C and color in parasternal long axis.
+Tiempo de hemipresión ⇒ Pressure half-time
+Arrastra desde el pico del chorro de insuficiencia siguiendo su pendiente de desaceleración. ⇒ Drag from the peak of the regurgitant jet along its deceleration slope.
+Vena contracta aórtica ⇒ Aortic vena contracta
+Paraesternal eje largo con zoom: ancho más estrecho del chorro de insuficiencia. ⇒ Zoomed parasternal long axis: narrowest width of the regurgitant jet.
+Estenosis mitral ⇒ Mitral stenosis
+Doppler continuo del flujo mitral en apical 4C. ⇒ Continuous-wave Doppler of mitral inflow in apical 4C.
+Arrastra desde el pico de la onda E siguiendo la pendiente de desaceleración. ⇒ Drag from the peak of the E wave along the deceleration slope.
+ITV mitral ⇒ Mitral VTI
+Traza la envolvente del flujo mitral de principio a fin para obtener el gradiente medio. ⇒ Trace the envelope of mitral inflow from start to end to obtain the mean gradient.
+Insuficiencia mitral (PISA) ⇒ Mitral regurgitation (PISA)
+Doppler color con la línea de base desplazada hacia el chorro, en mesosístole. ⇒ Color Doppler with the baseline shifted toward the jet, in mid-systole.
+Radio PISA ⇒ PISA radius
+Mesosístole: del orificio regurgitante al primer cambio de color (aliasing). ⇒ Mid-systole: from the regurgitant orifice to the first color change (aliasing).
+Velocidad de aliasing ⇒ Aliasing velocity
+Escríbela desde la escala de color, con la línea de base ya desplazada (habitualmente 30 a 40 cm/s). ⇒ Type it from the color scale, with the baseline already shifted (usually 30 to 40 cm/s).
+Vmax insuf. mitral ⇒ MR Vmax
+Doppler continuo del chorro de insuficiencia mitral: clic en la velocidad máxima. ⇒ Continuous-wave Doppler of the mitral regurgitant jet: click the peak velocity.
+ITV insuf. mitral ⇒ MR VTI
+Doppler continuo del chorro de insuficiencia mitral: traza la envolvente completa. ⇒ Continuous-wave Doppler of the mitral regurgitant jet: trace the complete envelope.
+Vena contracta mitral ⇒ Mitral vena contracta
+Doppler color con zoom: ancho más estrecho del chorro justo después del orificio. ⇒ Zoomed color Doppler: narrowest width of the jet just beyond the orifice.
+Ventrículo derecho ⇒ Right ventricle
+Apical 4C enfocada en VD. ⇒ RV-focused apical 4C.
+Diámetro basal VD ⇒ RV basal diameter
+Telediástole: diámetro basal del VD. ⇒ End-diastole: RV basal diameter.
+TAPSE ⇒ TAPSE
+Modo M del anillo tricuspídeo lateral: arrastra del valle al pico. ⇒ M-mode of the lateral tricuspid annulus: drag from trough to peak.
+S' tricuspídeo ⇒ Tricuspid S'
+Doppler tisular del anillo tricuspídeo: clic en el pico sistólico. ⇒ Tissue Doppler of the tricuspid annulus: click the systolic peak.
+Área VD diástole ⇒ RV area diastole
+Apical 4C enfocada en VD, telediástole: traza el endocardio del VD siguiendo las trabéculas. ⇒ RV-focused apical 4C, end-diastole: trace the RV endocardium following the trabeculations.
+Área VD sístole ⇒ RV area systole
+Apical 4C enfocada en VD, telesístole: traza el endocardio del VD siguiendo las trabéculas. ⇒ RV-focused apical 4C, end-systole: trace the RV endocardium following the trabeculations.
+Presión pulmonar y vena cava ⇒ Pulmonary pressure and vena cava
+Doppler continuo de la insuficiencia tricuspídea (PSAP) y subcostal de la vena cava inferior, a 1–2 cm de la aurícula derecha: diámetro máximo en espiración y mínimo con la inspiración o el olfateo (presión de la AD). ⇒ Continuous-wave Doppler of tricuspid regurgitation (PASP) and subcostal view of the inferior vena cava, 1–2 cm from the right atrium: maximal diameter in expiration and minimal with inspiration or sniff (RA pressure).
+Vmax insuf. tricuspídea ⇒ TR Vmax
+Doppler continuo de la insuficiencia tricuspídea: clic en la velocidad máxima. ⇒ Continuous-wave Doppler of tricuspid regurgitation: click the peak velocity.
+VCI diámetro máximo ⇒ IVC maximal diameter
+Espiración: diámetro máximo de la vena cava inferior, perpendicular a su eje. ⇒ Expiration: maximal diameter of the inferior vena cava, perpendicular to its axis.
+VCI diámetro mínimo ⇒ IVC minimal diameter
+Inspiración u olfateo: diámetro mínimo de la vena cava inferior en el mismo sitio. ⇒ Inspiration or sniff: minimal diameter of the inferior vena cava at the same site.
+Índice de excentricidad del VI ⇒ LV eccentricity index
+Paraesternal eje corto a nivel de los músculos papilares. D1 perpendicular al septo; D2 paralelo al septo. ⇒ Parasternal short axis at the papillary muscle level. D1 perpendicular to the septum; D2 parallel to the septum.
+D1 en diástole ⇒ D1 in diastole
+Telediástole: diámetro del VI perpendicular al septo interventricular. ⇒ End-diastole: LV diameter perpendicular to the interventricular septum.
+D2 en diástole ⇒ D2 in diastole
+Telediástole: diámetro del VI paralelo al septo, que corta a D1 por la mitad. ⇒ End-diastole: LV diameter parallel to the septum, bisecting D1.
+D1 en sístole ⇒ D1 in systole
+Telesístole: diámetro del VI perpendicular al septo interventricular. ⇒ End-systole: LV diameter perpendicular to the interventricular septum.
+D2 en sístole ⇒ D2 in systole
+Telesístole: diámetro del VI paralelo al septo, que corta a D1 por la mitad. ⇒ End-systole: LV diameter parallel to the septum, bisecting D1.
+TSVD y flujo pulmonar ⇒ RVOT and pulmonary flow
+Paraesternal eje corto de grandes vasos. Coloca el Doppler pulsado en el mismo sitio donde mides el diámetro. ⇒ Parasternal short axis at the great vessels. Place the pulsed-wave Doppler at the same site where you measure the diameter.
+Diámetro TSVD ⇒ RVOT diameter
+Mesosístole: diámetro del TSVD a nivel del anillo pulmonar, donde colocas el Doppler pulsado. ⇒ Mid-systole: RVOT diameter at the pulmonary annulus, where you place the pulsed-wave Doppler.
+Tiempo aceleración pulmonar ⇒ Pulmonary acceleration time
+Doppler pulsado en el TSVD: arrastra desde el inicio del flujo hasta su pico. ⇒ Pulsed-wave Doppler in the RVOT: drag from flow onset to its peak.
+ITV TSVD ⇒ RVOT VTI
+Doppler pulsado en el TSVD, justo antes de la válvula pulmonar: traza la envolvente de principio a fin. ⇒ Pulsed-wave Doppler in the RVOT, just before the pulmonary valve: trace the envelope from start to end.
+Estenosis pulmonar ⇒ Pulmonary stenosis
+Doppler continuo a través de la válvula pulmonar en eje corto de grandes vasos. ⇒ Continuous-wave Doppler across the pulmonary valve in the great-vessel short axis.
+Vmax pulmonar ⇒ Pulmonary Vmax
+Doppler continuo pulmonar: clic en la velocidad máxima. ⇒ Continuous-wave pulmonary Doppler: click the peak velocity.
+Estenosis tricuspídea ⇒ Tricuspid stenosis
+Doppler continuo del flujo tricuspídeo en apical 4C o paraesternal de tracto de entrada del VD. ⇒ Continuous-wave Doppler of tricuspid inflow in apical 4C or parasternal RV inflow view.
+ITV tricuspídea ⇒ Tricuspid VTI
+Traza la envolvente del flujo diastólico tricuspídeo para obtener el gradiente medio. Promedia en fibrilación auricular. ⇒ Trace the envelope of diastolic tricuspid flow to obtain the mean gradient. Average in atrial fibrillation.
+Arrastra desde el pico de la onda E tricuspídea siguiendo la pendiente de desaceleración. ⇒ Drag from the peak of the tricuspid E wave along the deceleration slope.
+Arrastra desde el pico de la onda siguiendo la pendiente de desaceleración, hacia la línea de base. ⇒ Drag from the peak of the wave along the deceleration slope, toward the baseline.
+# ---- Secciones del reporte y nombres largos ----
+Ventrículo izquierdo ⇒ Left ventricle
+Función diastólica y presiones ⇒ Diastolic function and pressures
+Flujos y válvula aórtica ⇒ Flows and aortic valve
+Insuficiencia mitral ⇒ Mitral regurgitation
+Vena cava inferior ⇒ Inferior vena cava
+Tracto de salida del VD y flujo pulmonar ⇒ RV outflow tract and pulmonary flow
+Válvulas tricúspide y pulmonar ⇒ Tricuspid and pulmonary valves
+Septo interventricular (diástole) ⇒ Interventricular septum (diastole)
+Diámetro diastólico VI ⇒ LV end-diastolic diameter
+Pared posterior (diástole) ⇒ Posterior wall (diastole)
+Diámetro sistólico VI ⇒ LV end-systolic diameter
+Diámetro anteroposterior AI ⇒ LA anteroposterior diameter
+Raíz aórtica (senos de Valsalva) ⇒ Aortic root (sinuses of Valsalva)
+Diámetro del TSVI ⇒ LVOT diameter
+Onda S' tricuspídea ⇒ Tricuspid S' wave
+Onda E mitral ⇒ Mitral E wave
+Onda A mitral ⇒ Mitral A wave
+Tiempo de desaceleración de E ⇒ E-wave deceleration time
+D1 en diástole (perpendicular al septo) ⇒ D1 in diastole (perpendicular to the septum)
+D2 en diástole (paralelo al septo) ⇒ D2 in diastole (parallel to the septum)
+D1 en sístole (perpendicular al septo) ⇒ D1 in systole (perpendicular to the septum)
+D2 en sístole (paralelo al septo) ⇒ D2 in systole (parallel to the septum)
+Tiempo de hemipresión tricuspídeo ⇒ Tricuspid pressure half-time
+Velocidad máxima pulmonar ⇒ Pulmonary peak velocity
+Diámetro del TSVD ⇒ RVOT diameter
+Tiempo de aceleración pulmonar ⇒ Pulmonary acceleration time
+ITV del TSVD ⇒ RVOT VTI
+Tiempo de hemipresión mitral ⇒ Mitral pressure half-time
+Tiempo de hemipresión aórtico ⇒ Aortic pressure half-time
+Velocidad máxima de insuficiencia mitral ⇒ MR peak velocity
+ITV de insuficiencia mitral ⇒ MR VTI
+Velocidad máxima de insuficiencia tricuspídea ⇒ TR peak velocity
+ITV del TSVI ⇒ LVOT VTI
+Velocidad máxima aórtica ⇒ Aortic peak velocity
+# ---- Coronarias ----
+Tronco coronario izquierdo ⇒ Left main coronary artery
+Descendente anterior ⇒ Left anterior descending
+DA proximal ⇒ Proximal LAD
+DA media ⇒ Mid LAD
+DA distal ⇒ Distal LAD
+Primera diagonal ⇒ First diagonal
+Segunda diagonal ⇒ Second diagonal
+Circunfleja ⇒ Circumflex
+Cx proximal ⇒ Proximal LCx
+Cx distal ⇒ Distal LCx
+Ramo intermedio ⇒ Ramus intermedius
+Primera obtusa marginal ⇒ First obtuse marginal
+Segunda obtusa marginal ⇒ Second obtuse marginal
+Coronaria derecha ⇒ Right coronary artery
+CD proximal ⇒ Proximal RCA
+CD media ⇒ Mid RCA
+CD distal ⇒ Distal RCA
+Descendente posterior ⇒ Posterior descending
+Posterolateral ⇒ Posterolateral
+Coronaria izquierda ⇒ Left coronary artery
+# ---- Plantillas y frases ----
+Ecocardiograma normal ⇒ Normal echocardiogram
+Ventrículo izquierdo de dimensiones normales (DdVI {DdVI}), con grosor parietal normal y función sistólica global conservada (FEVI {FEVI}). Sin alteraciones segmentarias de la contractilidad. ⇒ Normal left ventricular size (LVIDd {DdVI}), with normal wall thickness and preserved global systolic function (LVEF {FEVI}). No regional wall motion abnormalities.
+Función diastólica normal (E/e' {EE}). ⇒ Normal diastolic function (E/e' {EE}).
+Aurícula izquierda de tamaño normal (volumen indexado {AI}). ⇒ Normal left atrial size (indexed volume {AI}).
+Ventrículo derecho de tamaño y función normales (TAPSE {TAPSE}). ⇒ Normal right ventricular size and function (TAPSE {TAPSE}).
+Válvulas sin alteraciones estructurales ni funcionales significativas. ⇒ No significant structural or functional valve abnormalities.
+PSAP estimada {PSAP}. Vena cava inferior de calibre normal con colapso inspiratorio adecuado. ⇒ Estimated PASP {PSAP}. Normal-sized inferior vena cava with adequate inspiratory collapse.
+Sin derrame pericárdico. ⇒ No pericardial effusion.
+Falla cardíaca con FEVI reducida ⇒ Heart failure with reduced LVEF
+Ventrículo izquierdo dilatado (DdVI {DdVI}; volumen telediastólico indexado {VTDI}) con disfunción sistólica global (FEVI {FEVI}). ⇒ Dilated left ventricle (LVIDd {DdVI}; indexed end-diastolic volume {VTDI}) with global systolic dysfunction (LVEF {FEVI}).
+Alteraciones segmentarias: ___. ⇒ Regional wall motion abnormalities: ___.
+Patrón de llenado: E/A {EA}, E/e' {EE}. ⇒ Filling pattern: E/A {EA}, E/e' {EE}.
+Aurícula izquierda con volumen indexado de {AI}. ⇒ Left atrium with an indexed volume of {AI}.
+Ventrículo derecho: TAPSE {TAPSE}, S' {SVD}. PSAP estimada {PSAP}; presión de aurícula derecha {PAD}. ⇒ Right ventricle: TAPSE {TAPSE}, S' {SVD}. Estimated PASP {PSAP}; right atrial pressure {PAD}.
+Insuficiencia mitral: ___ (ORE {ORE}). ⇒ Mitral regurgitation: ___ (EROA {ORE}).
+Sin trombos intracavitarios visibles. ⇒ No visible intracavitary thrombi.
+Valvulopatía ⇒ Valvular disease
+Válvula aórtica: ___. Vmax {VMAXAO}, gradiente medio {GMAO}, área por continuidad {AVA}, índice adimensional {DVI}. ⇒ Aortic valve: ___. Vmax {VMAXAO}, mean gradient {GMAO}, continuity area {AVA}, dimensionless index {DVI}.
+Válvula mitral: ___. Área por PHT {AVM}, gradiente medio {GMM}. Insuficiencia mitral con ORE {ORE} y volumen regurgitante {VR}. ⇒ Mitral valve: ___. PHT area {AVM}, mean gradient {GMM}. Mitral regurgitation with EROA {ORE} and regurgitant volume {VR}.
+Válvula tricúspide: ___. Velocidad de insuficiencia {VIT}. ⇒ Tricuspid valve: ___. Regurgitation velocity {VIT}.
+Función ventricular izquierda: FEVI {FEVI}, DdVI {DdVI}, DsVI {DsVI}. ⇒ Left ventricular function: LVEF {FEVI}, LVIDd {DdVI}, LVIDs {DsVI}.
+Hipertensión pulmonar ⇒ Pulmonary hypertension
+Velocidad de insuficiencia tricuspídea {VIT}, PSAP estimada {PSAP} (presión de aurícula derecha {PAD}). ⇒ Tricuspid regurgitation velocity {VIT}, estimated PASP {PSAP} (right atrial pressure {PAD}).
+Probabilidad ecocardiográfica de hipertensión pulmonar: ___. ⇒ Echocardiographic probability of pulmonary hypertension: ___.
+Ventrículo derecho: diámetro basal {VDB}, TAPSE {TAPSE}, S' {SVD}, CAF {CAF}. Relación TAPSE/PSAP {TAPSEPSAP}. ⇒ Right ventricle: basal diameter {VDB}, TAPSE {TAPSE}, S' {SVD}, FAC {CAF}. TAPSE/PASP ratio {TAPSEPSAP}.
+Tiempo de aceleración pulmonar {TAP}. Índice de excentricidad en sístole {EIS} y en diástole {EID}. ⇒ Pulmonary acceleration time {TAP}. Eccentricity index in systole {EIS} and in diastole {EID}.
+Vena cava inferior de {VCI} con colapso de {VCICOL}. ⇒ Inferior vena cava of {VCI} with {VCICOL} collapse.
+Función sistólica del ventrículo izquierdo conservada (FEVI {FEVI}). ⇒ Preserved left ventricular systolic function (LVEF {FEVI}).
+Arteriografía coronaria normal ⇒ Normal coronary angiogram
+Tronco coronario izquierdo sin lesiones. ⇒ Left main coronary artery without lesions.
+Descendente anterior y sus ramas diagonales sin lesiones angiográficas. ⇒ Left anterior descending and its diagonal branches without angiographic lesions.
+Circunfleja y ramas obtusas marginales sin lesiones angiográficas. ⇒ Circumflex and obtuse marginal branches without angiographic lesions.
+Coronaria derecha sin lesiones angiográficas. ⇒ Right coronary artery without angiographic lesions.
+Arterias coronarias epicárdicas sin enfermedad obstructiva. ⇒ Epicardial coronary arteries without obstructive disease.
+Sin alteraciones segmentarias de la contractilidad. ⇒ No regional wall motion abnormalities.
+Válvulas sin alteraciones significativas. ⇒ No significant valve abnormalities.
+Septum interauricular íntegro al Doppler color. ⇒ Intact interatrial septum on color Doppler.
+Raíz aórtica y aorta ascendente de diámetros normales. ⇒ Normal aortic root and ascending aorta diameters.
+Ventana acústica subóptima. ⇒ Suboptimal acoustic window.
+Comparado con el estudio previo, sin cambios significativos. ⇒ Compared with the previous study, no significant changes.
+Se recomienda correlación clínica. ⇒ Clinical correlation is recommended.
+# ---- Vistas del protocolo ----
+Paraesternal eje largo ⇒ Parasternal long axis
+Eje corto de grandes vasos ⇒ Great-vessel short axis
+Doppler pulsado del TSVD ⇒ RVOT pulsed-wave Doppler
+Apical 4 cámaras ⇒ Apical 4-chamber
+Doppler pulsado mitral ⇒ Mitral pulsed-wave Doppler
+Doppler tisular mitral ⇒ Mitral tissue Doppler
+Apical 4C enfocada en VD ⇒ RV-focused apical 4C
+Modo M tricuspídeo ⇒ Tricuspid M-mode
+Doppler tisular tricuspídeo ⇒ Tricuspid tissue Doppler
+Doppler continuo tricuspídeo ⇒ Tricuspid continuous-wave Doppler
+Apical 2 cámaras ⇒ Apical 2-chamber
+Apical 5 cámaras ⇒ Apical 5-chamber
+Subcostal ⇒ Subcostal

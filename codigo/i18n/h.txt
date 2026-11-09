@@ -1,0 +1,76 @@
+# ---- Angio-TC ----
+Score de calcio ⇒ Calcium score
+Angio-TC coronaria ⇒ Coronary CT angiography
+Cx media-distal ⇒ Mid-distal LCx
+Descendente posterior izquierda ⇒ Left posterior descending
+Posterolateral izquierda ⇒ Left posterolateral
+Descendente posterior derecha ⇒ Right posterior descending
+Posterolateral derecha ⇒ Right posterolateral
+Calcificada ⇒ Calcified
+No calcificada ⇒ Non-calcified
+Mixta ⇒ Mixed
+Calcif. ⇒ Calcif.
+No calcif. ⇒ Non-calc.
+Tipo de placa ⇒ Plaque type
+Tipo de placa en {} ⇒ Plaque type in {}
+Estenosis (%) ⇒ Stenosis (%)
+{} (%) ⇒ {} (%)
+Sin estenosis ⇒ No stenosis
+Mínima (1–24 %) ⇒ Minimal (1–24 %)
+Leve (25–49 %) ⇒ Mild (25–49 %)
+Moderada (50–69 %) ⇒ Moderate (50–69 %)
+Severa (70–99 %) ⇒ Severe (70–99 %)
+Oclusión ⇒ Occlusion
+Características de alto riesgo ⇒ High-risk features
+Remodelado positivo ⇒ Positive remodeling
+Placa de baja atenuación (< 30 UH) ⇒ Low-attenuation plaque (< 30 HU)
+Signo del anillo de servilleta ⇒ Napkin-ring sign
+Calcificación puntiforme ⇒ Spotty calcification
+Placa de alto riesgo (HRP) = 2 o más características. ⇒ High-risk plaque (HRP) = 2 or more features.
+AR ⇒ HR
+AR {n} ⇒ HR {}
+CAD-RADS — ⇒ CAD-RADS —
+Ingresa la estenosis de cada segmento con placa (o marca «Revisé todos los segmentos» si no hay enfermedad). ⇒ Enter the stenosis of each segment with plaque (or tick “I reviewed all segments” if there is no disease).
+Carga de placa {} por el score de calcio de este estudio ⇒ Plaque burden {} from this study's calcium score
+Carga de placa {} por el número de segmentos con placa ({}) ⇒ Plaque burden {} from the number of segments with plaque ({})
+Carga de placa {} por el score de calcio de este estudio. ⇒ Plaque burden {} from this study's calcium score.
+Carga de placa {} por el número de segmentos con placa ({}). ⇒ Plaque burden {} from the number of segments with plaque ({}).
+Carga de placa {} por el score de calcio de este estudio · Placa de alto riesgo en {}. ⇒ Plaque burden {} from this study's calcium score · High-risk plaque in {}.
+Carga de placa {} por el número de segmentos con placa ({}) · Placa de alto riesgo en {}. ⇒ Plaque burden {} from the number of segments with plaque ({}) · High-risk plaque in {}.
+Revisé todos los segmentos (los no ingresados no tienen placa) ⇒ I reviewed all segments (those not entered have no plaque)
+Pulsa el nombre del segmento para medir la estenosis sobre la imagen (primero el vaso de referencia y luego la lesión), o escribe el porcentaje. AR = características de placa de alto riesgo. ⇒ Click a segment name to measure the stenosis on the image (first the reference vessel, then the lesion), or type the percentage. HR = high-risk plaque features.
+Modificadores ⇒ Modifiers
+N · estudio no diagnóstico en algún segmento ⇒ N · non-diagnostic study in some segment
+S · stent ⇒ S · stent
+G · injerto coronario ⇒ G · coronary graft
+E · excepciones (anomalía, disección, aneurisma, fístula…) ⇒ E · exceptions (anomaly, dissection, aneurysm, fistula…)
+I · isquemia (FFR-TC o perfusión) ⇒ I · ischemia (FFR-CT or perfusion)
+No evaluada ⇒ Not assessed
+CAD-RADS 2.0 (SCCT/ACR/NASCI 2022). Las recomendaciones son orientativas; intégralas con la clínica. ⇒ CAD-RADS 2.0 (SCCT/ACR/NASCI 2022). The recommendations are indicative; integrate them with the clinical picture.
+{}: estenosis ⇒ {}: stenosis
+{}: estenosis de {} %. ⇒ {}: {} % stenosis.
+Sin sobrecarga ⇒ No overload
+Sin enfermedad coronaria aterosclerótica. Considerar causas no ateroscleróticas del dolor torácico. ⇒ No coronary atherosclerosis. Consider non-atherosclerotic causes of chest pain.
+Enfermedad coronaria mínima no obstructiva (1–24 %). Prevención y control de factores de riesgo. ⇒ Minimal non-obstructive coronary disease (1–24 %). Preventive therapy and risk factor control.
+Enfermedad coronaria leve no obstructiva (25–49 %). Prevención y control de factores de riesgo. ⇒ Mild non-obstructive coronary disease (25–49 %). Preventive therapy and risk factor control.
+Estenosis moderada (50–69 %). Considerar prueba funcional; prevención y tratamiento antianginoso. ⇒ Moderate stenosis (50–69 %). Consider functional testing; preventive and anti-anginal therapy.
+Estenosis severa (70–99 %). Considerar coronariografía invasiva o prueba funcional. ⇒ Severe stenosis (70–99 %). Consider invasive coronary angiography or functional testing.
+Tronco ≥ 50 % o enfermedad obstructiva de tres vasos (≥ 70 %). Se recomienda coronariografía invasiva. ⇒ Left main ≥ 50 % or obstructive three-vessel disease (≥ 70 %). Invasive coronary angiography is recommended.
+Oclusión total (100 %). Considerar coronariografía invasiva y evaluación de viabilidad. ⇒ Total occlusion (100 %). Consider invasive coronary angiography and viability assessment.
+Angiografía coronaria por TC ⇒ Coronary CT angiography
+Sin placa ⇒ No plaque
+Clasificación ⇒ Classification
+alto riesgo ⇒ high risk
+{} · alto riesgo ⇒ {} · high risk
+Segmento ⇒ Segment
+Nombre ⇒ Name
+Placa ⇒ Plaque
+Alto riesgo ⇒ High risk
+Sí ⇒ Yes
+Recomendación ⇒ Recommendation
+Angio-TC ⇒ CT angio
+{n}. {} ⇒ {}. {}
+{n}. {} (%) ⇒ {}. {} (%)
+Medir la estenosis de {} sobre la imagen ⇒ Measure the {} stenosis on the image
+Estenosis {} % (área {} %) ⇒ Stenosis {} % (area {} %)
+Referencia {} mm · DLM {} mm ⇒ Reference {} mm · MLD {} mm

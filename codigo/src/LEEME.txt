@@ -1,0 +1,18 @@
+Cardón · código fuente
+======================
+
+Estructura
+- index.html ........ estructura de la página (marcadores /*@CSS*/ y /*@JS*/).
+- css/app.css ....... estilos.
+- js/NN-nombre.js ... módulos de JavaScript, en el orden de js/ORDEN.txt.
+    00-nucleo ........................ lectura y decodificación DICOM (sin interfaz).
+    01-calculos ...................... fórmulas y pruebas de cálculo (sin interfaz).
+    04-diccionario-ingles ............ diccionario generado desde i18n/*.txt (no editar a mano).
+    resto ............................ visor, medidas, TC, RM, eco, angiografía, reportes, eventos y arranque.
+
+Compilar
+- python3 build.py ............ genera latido.html (versión en línea).
+- python3 build.py --offline .. además genera Cardon.html (todo incluido, funciona sin internet).
+- python3 i18n_build.py ....... actualiza el diccionario inglés y recompila.
+
+Licencia: GNU GPL v3 o posterior. © Dr. Martín Arrieta.

@@ -1,0 +1,24 @@
+Medidas libres y aorta ⇒ Free measurements and aorta
+Distancia ⇒ Distance
+Distancia entre dos puntos ⇒ Distance between two points
+Área de un contorno ⇒ Area of a contour
+QCA libre ⇒ Free QCA
+Estenosis automática sin asignarla a un segmento ⇒ Automatic stenosis without assigning it to a segment
+Raíz aórtica ⇒ Aortic root
+Raíz aórtica (senos) ⇒ Aortic root (sinuses)
+Aorta ascendente ⇒ Ascending aorta
+Arrastra de pared a pared en la aortografía (raíz: a nivel de los senos de Valsalva) ⇒ Drag from wall to wall on the aortogram (root: at the sinuses of Valsalva)
+Arrastra de pared a pared, perpendicular al eje de la aorta. ⇒ Drag from wall to wall, perpendicular to the aortic axis.
+dilatada ⇒ dilated
+{} mm (aprox.) ⇒ {} mm (approx.)
+{} mm (calibración aproximada) ⇒ {} mm (approximate calibration)
+Las distancias usan la calibración del catéter; si no la hay, una aproximada del detector. Clic derecho sobre la imagen para más medidas libres. ⇒ Distances use the catheter calibration; if there is none, an approximate one from the detector. Right-click on the image for more free measurements.
+Abre una angiografía para medir. ⇒ Open an angiogram to measure.
+Calibración aproximada por el detector corregida al isocentro (factor {}). Para medidas exactas, calibra con el catéter. ⇒ Approximate calibration from the detector corrected to the isocenter (factor {}). For exact measurements, calibrate with the catheter.
+Calibración aproximada por el detector (sin corregir la magnificación: sobrestima). Para medidas exactas, calibra con el catéter. ⇒ Approximate calibration from the detector (magnification not corrected: overestimates). For exact measurements, calibrate with the catheter.
+Aorta ⇒ Aorta
+Medida ⇒ Measurement
+Valor (mm) ⇒ Value (mm)
+Calibración ⇒ Calibration
+Aproximada (detector) ⇒ Approximate (detector)
+Catéter ⇒ Catheter

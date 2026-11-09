@@ -1,0 +1,133 @@
+# ---- Patrones ----
+Borrar {} ⇒ Delete {}
+Medir la estenosis de {} sobre la imagen ⇒ Measure the {} stenosis on the image
+Cuadro {n} ⇒ Frame {}
+Corte {} ⇒ Slice {}
+Corte {}/{} · ⇒ Slice {}/{} ·
+FC {} lpm ⇒ HR {} bpm
+FC {} ⇒ HR {}
+{n} lpm ⇒ {} bpm
+{} fps · {} lpm ⇒ {} fps · {} bpm
+{n} fps ⇒ {} fps
+Preparando {n} ⇒ Loading {}
+Preparando imágenes… {} ⇒ Loading images… {}
+{} (alto) ⇒ {} (high)
+{} (bajo) ⇒ {} (low)
+{n} pacientes ⇒ {} patients
+{n} paciente ⇒ {} patient
+{n} secuencias ⇒ {} sequences
+{n} secuencia ⇒ {} sequence
+{} img · {} medidas ⇒ {} img · {} measurements
+{} · {} fps · {} ms por cuadro ⇒ {} · {} fps · {} ms per frame
+· {} ms por cuadro ⇒ · {} ms per frame
+{} de {} pruebas correctas. ⇒ {} of {} tests passed.
+de {} pruebas correctas. ⇒ of {} tests passed.
+{} y {} marcas ⇒ {} and {} marks
+{} y {} marcas{} ⇒ {} and {} marks{}
+Archivo descargado: {} ⇒ File downloaded: {}
+Archivo guardado: {} ⇒ File saved: {}
+Calibrada desde el archivo: {}. ⇒ Calibrated from the file: {}.
+ECG leído de la imagen: {} telediástoles, {} lpm. Usa TD y TS para saltar a ellas. ⇒ ECG read from the image: {} end-diastoles, {} bpm. Use ED and ES to jump to them.
+Espacio usado en este computador: {} de {} disponibles ⇒ Storage used on this computer: {} of {} available
+Estudio del {} · {} medidas ⇒ Study of {} · {} measurements
+Estudio del {} · {} medida ⇒ Study of {} · {} measurement
+Estudio del {} · {} {} ⇒ Study of {} · {} {}
+Estudio del {} ⇒ Study of {}
+Fecha del estudio: {} ⇒ Study date: {}
+Paciente: {} ⇒ Patient: {}
+Peso: {} ⇒ Weight: {}
+Talla: {} ⇒ Height: {}
+Edad: {} ⇒ Age: {}
+Sexo: {} ⇒ Sex: {}
+Documento: {} ⇒ ID: {}
+Superficie corporal: {} ⇒ Body surface area: {}
+Frecuencia cardíaca: {} ⇒ Heart rate: {}
+Presión arterial: {} ⇒ Blood pressure: {}
+Gradiente VD–AD {} mmHg + presión de AD {} mmHg ({}). ⇒ RV–RA gradient {} mmHg + RA pressure {} mmHg ({}).
+Importado: {}, estudio del {} ({} archivo). ⇒ Imported: {}, study of {} ({} file).
+Importado: {}, estudio del {} ({} archivos). ⇒ Imported: {}, study of {} ({} files).
+Leyendo {} de {} archivos… ⇒ Reading {} of {} files…
+Procesando imágenes {} de {}… ⇒ Processing images {} of {}…
+Se importaron {} estudios. Se abrió el primero; los demás están en la lista de pacientes. ⇒ {} studies were imported. The first one was opened; the others are in the patient list.
+Paso {} de {}: {} ⇒ Step {} of {}: {}
+Paso {} de {} · {} ⇒ Step {} of {} · {}
+Paso {} de {}: ⇒ Step {} of {}:
+Referencia: {} ⇒ Reference: {}
+{} Referencia: {} ⇒ {} Reference: {}
+Referencia {} ⇒ Reference {}
+H {} · M {} ⇒ M {} · F {}
+· {} ⇒ · {}
+{} · {} ⇒ {} · {}
+SC {} ⇒ BSA {}
+PA {} ⇒ BP {}
+US · {} ⇒ US · {}
+XA · {} ⇒ XA · {}
+MR · {} ⇒ MR · {}
+{n} cuadros ⇒ {} frames
+{n} imágenes ⇒ {} images
+{n} imagen ⇒ {} image
+{n} medidas ⇒ {} measurements
+{n} medida ⇒ {} measurement
+· {n} medidas ⇒ · {} measurements
+{n} años ⇒ {} years
+{n} min ⇒ {} min
+{n} img ⇒ {} img
+Plantilla «{}» guardada. ⇒ Template “{}” saved.
+Promedio de {} latidos. ⇒ Average of {} beats.
+Promedio de {} latidos: {} ⇒ Average of {} beats: {}
+Cada nueva medida de la misma variable se suma al promedio (hasta {}). Útil en fibrilación auricular. ⇒ Each new measurement of the same variable is added to the average (up to {}). Useful in atrial fibrillation.
+Al medir de nuevo una variable ya medida, se suma como otro latido y se usa el promedio (hasta {}). No aplica a los trazos de volumen. ⇒ Measuring an already measured variable again adds it as another beat and the average is used (up to {}). Does not apply to volume tracings.
+{}: {} latidos, promedio {}. ⇒ {}: {} beats, average {}.
+Compresión no reconocida ({}). Expórtalo sin compresión o como JPEG. ⇒ Unrecognized compression ({}). Export it uncompressed or as JPEG.
+Este archivo usa compresión {}, que el visor aún no lee. Expórtalo sin compresión o como JPEG desde el equipo o el PACS. ⇒ This file uses {} compression, which the viewer cannot read yet. Export it uncompressed or as JPEG from the scanner or the PACS.
+Corrección por ángulo de {}° aplicada a las nuevas medidas Doppler de esta secuencia. Vuelve a medir las que ya hiciste. ⇒ Angle correction of {}° applied to new Doppler measurements in this sequence. Re-measure the ones you already made.
+Curva DICOM · {} puntos ⇒ DICOM curve · {} points
+Señal DICOM (Waveform) · {} Hz · {} muestras ⇒ DICOM signal (Waveform) · {} Hz · {} samples
+Solo marcas de onda R en los cuadros {} ⇒ R-wave marks only, at frames {}
+Formato de imagen no compatible ({}, {} bit, {} canales). ⇒ Unsupported image format ({}, {} bit, {} channels).
+Imágenes de {} bit no compatibles. ⇒ {}-bit images are not supported.
+Generando el modo M… {} % ⇒ Generating M-mode… {} %
+Grabando video… {} % ⇒ Recording video… {} %
+Modo M · {} ⇒ M-mode · {}
+Modo M anatómico{} ⇒ Anatomical M-mode{}
+FEVI (Simpson {}) ⇒ LVEF (Simpson {})
+Volumen AI ({}) ⇒ LA volume ({})
+Volumen telediastólico ({}) ⇒ End-diastolic volume ({})
+Volumen telesistólico ({}) ⇒ End-systolic volume ({})
+Flujo TIMI en {} ⇒ TIMI flow in {}
+TIMI {} ⇒ TIMI {}
+manual de distancia ({} mm/px) ⇒ manual distance ({} mm/px)
+Calibración {}. ⇒ Calibration: {}.
+Calibración {} y {}. ⇒ Calibration: {} and {}.
+{} × {} px · {} · {} bit ⇒ {} × {} px · {} · {} bit
+{} · Vmax ⇒ {} · Vmax
+{} · volumen ⇒ {} · volume
+{} · área ⇒ {} · area
+{} sin guardar: asígnalas a un paciente ⇒ {} not saved: assign them to a patient
+¿Eliminar a {} y sus {} {}, con imágenes y medidas? ⇒ Delete {} and their {} {}, with images and measurements?
+¿Eliminar el estudio del {} con sus imágenes y medidas? ⇒ Delete the study of {} with its images and measurements?
+— obtenido {}, esperado {} ⇒ — got {}, expected {}
+{}. Válido solo con FEVI conservada y sin otras condiciones que lo invaliden. ⇒ {}. Valid only with preserved LVEF and no other conditions that invalidate it.
+{} de {} alterados ⇒ {} of {} abnormal
+PHT {} ms: rango {} ⇒ PHT {} ms: {} range
+vena contracta {} mm: rango {} ⇒ vena contracta {} mm: {} range
+{}; vena contracta {} mm: rango {} ⇒ {}; vena contracta {} mm: {} range
+Vmax {} m/s ⇒ Vmax {} m/s
+TAP {} ms, sugestivo de hipertensión pulmonar (< 105 ms). Estimación orientativa; intégrala con la velocidad de insuficiencia tricuspídea. ⇒ PAT {} ms, suggestive of pulmonary hypertension (< 105 ms). Rough estimate; integrate it with the tricuspid regurgitation velocity.
+TAP {} ms. Estimación orientativa; intégrala con la velocidad de insuficiencia tricuspídea. ⇒ PAT {} ms. Rough estimate; integrate it with the tricuspid regurgitation velocity.
+Tiempo de hemipresión {} ms (≥ 190 ms apoya estenosis significativa). ⇒ Pressure half-time {} ms (≥ 190 ms supports significant stenosis).
+ITV {} cm (≥ 60 cm apoya estenosis significativa). ⇒ VTI {} cm (≥ 60 cm supports significant stenosis).
+{} · Tiempo de hemipresión {} ms (≥ 190 ms apoya estenosis significativa). ⇒ {} · Pressure half-time {} ms (≥ 190 ms supports significant stenosis).
+lesión de {} % en {} ⇒ {} % lesion in {}
+oclusión total en {} ⇒ total occlusion in {}
+{n} Hz ⇒ {} Hz
+Imágenes de {} ⇒ Images of {}
+Medidas_{} ⇒ Measurements_{}
+Leyendo {} ⇒ Reading {}
+Estudio abierto · {} ⇒ Open study · {}
+{n} kB ⇒ {} kB
+{n} MB ⇒ {} MB
+{} · {} kB ⇒ {} · {} kB
+Volver a medir {} ⇒ Re-measure {}
+{}: estenosis {} % ⇒ {}: {} % stenosis
+{}: estenosis de {} %. ⇒ {}: {} % stenosis.

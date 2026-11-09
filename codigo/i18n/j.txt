@@ -1,0 +1,43 @@
+Abriendo el estudio… ⇒ Opening the study…
+Visor ⇒ Viewer
+Clic en MPR ⇒ Click on MPR
+Clic en una medida ⇒ Click on a measurement
+Completar VI en todos los cortes ⇒ Fill LV on all slices
+Completar VD ⇒ Fill RV
+Contorno semiautomático: un clic dentro de la cavidad ⇒ Semi-automatic contour: one click inside the cavity
+Detectar telesístole ⇒ Detect end-systole
+Escribe y pulsa Enter ⇒ Type and press Enter
+Filtrar por tipo de estudio ⇒ Filter by study type
+Flecha agregada. Se guarda con el estudio y sale en las exportaciones. ⇒ Arrow added. It is saved with the study and included in exports.
+Texto agregado. Se guarda con el estudio y sale en las exportaciones. ⇒ Text added. It is saved with the study and included in exports.
+Incluir medidas y anotaciones ⇒ Include measurements and annotations
+Medidas y anotaciones ⇒ Measurements and annotations
+Mostrar los cortes ⇒ Show the slices
+Ocultar los cortes ⇒ Hide the slices
+Más umbral = contorno más ajustado a la sangre. El epicardio se traza a mano. Revisa cada contorno: si no te convence, vuelve a pulsar la casilla y arrastra para trazarlo a mano. ⇒ Higher threshold = contour tighter to the blood pool. The epicardium is traced by hand. Review each contour: if you are not convinced, click the cell again and drag to trace it by hand.
+Seguir el vaso en cada cuadro (el círculo se recentra si el vaso se mueve) ⇒ Track the vessel in each frame (the circle re-centers if the vessel moves)
+Texto de la anotación ⇒ Annotation text
+Umbral de la sangre ⇒ Blood threshold
+cuadro a cuadro o corte a corte ⇒ frame by frame or slice by slice
+cuadro o corte anterior y siguiente ⇒ previous and next frame or slice
+medidas libres, flecha y texto (arrastrar: mover la imagen) ⇒ free measurements, arrow and text (drag: move the image)
+ubica ese punto en los otros planos ⇒ locates that point in the other planes
+usa el VI en telediástole del corte medio ⇒ uses the LV at end-diastole of the mid slice
+Arrastra desde la cola hasta la punta de la flecha. ⇒ Drag from the tail to the tip of the arrow.
+Arrastra desde la cola hasta la punta. ⇒ Drag from the tail to the tip.
+Haz clic dentro de la cavidad para delimitarla sola, o arrastra para trazarla a mano. Los músculos papilares quedan dentro del volumen. ⇒ Click inside the cavity to outline it automatically, or drag to trace it by hand. Papillary muscles stay inside the volume.
+Haz clic donde quieres poner el texto; escríbelo y pulsa Enter (Esc cancela). ⇒ Click where you want to place the text; type it and press Enter (Esc cancels).
+Abiertos recientemente ⇒ Recently opened
+Todos ⇒ All
+Navegar ⇒ Navigate
+seleccionarla ⇒ select it
+borrar la medida seleccionada ⇒ delete the selected measurement
+deshacer ⇒ undo
+cancelar la medida o salir ⇒ cancel the measurement or exit
+herramienta de zoom · acercar · alejar ⇒ zoom tool · zoom in · zoom out
+restablecer la vista · invertir ⇒ reset view · invert
+Flecha ⇒ Arrow
+Texto ⇒ Text
+{n} cortes · {n} fases ⇒ {} slices · {} phases
+Al abrir un estudio, mostrar primero la serie principal según el tipo (RM: eje corto medio; TC: la serie fina). Siempre se abre en una sola ventana; el MPR se activa después. ⇒ When opening a study, show the main series first according to its type (MR: mid short axis; CT: the thin series). It always opens in a single window; MPR is turned on afterwards.
+Para verla en 3 planos, usa «Ver en 3 planos (MPR)» en la pestaña Medidas. ⇒ To see it in 3 planes, use “View in 3 planes (MPR)” in the Measurements tab.

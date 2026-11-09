@@ -1,0 +1,27 @@
+MPR abierto con los planos y las curvas que guardaste en este estudio. «Restablecer los planos» vuelve a los planos rectos. ⇒ MPR opened with the planes and curves you saved in this study. “Reset planes” returns to the straight planes.
+Curva borrada. ⇒ Curve deleted.
+Curva {n} ⇒ Curve {}
+Borrar la curva {n} ⇒ Delete curve {}
+Caso anonimizado (.zip)… ⇒ Anonymized case (.zip)…
+Imágenes sin datos del paciente, con medidas y anotaciones, para compartir como caso docente ⇒ Images without patient data, with measurements and annotations, to share as a teaching case
+Exportar caso docente anonimizado ⇒ Export anonymized teaching case
+Exportar caso (.zip) ⇒ Export case (.zip)
+Abre un estudio con imágenes para exportarlo como caso. ⇒ Open a study with images to export it as a case.
+Título del caso ⇒ Case title
+Caso docente ⇒ Teaching case
+Conservar la edad y el sexo ⇒ Keep age and sex
+Conservar la edad ({n} años) y el sexo ⇒ Keep age ({} years) and sex
+Conservar las fechas ⇒ Keep dates
+Incluir medidas, anotaciones y curvas ⇒ Include measurements, annotations and curves
+Incluir la conclusión (revisa que no tenga nombres) ⇒ Include the conclusion (check it has no names)
+{} · zona oculta ⇒ {} · hidden area
+Una secuencia de eco o angiografía no tiene zonas ocultas. Estos equipos suelen escribir el nombre del paciente sobre la imagen: revísalas y usa Exportar → «Ocultar zona» sobre ese texto, o desmárcalas. ⇒ One echo or angiography sequence has no hidden areas. These machines often burn the patient's name into the image: review it and use Export → “Hide area” over that text, or untick it.
+{n} secuencias de eco o angiografía no tienen zonas ocultas. Estos equipos suelen escribir el nombre del paciente sobre la imagen: revísalas y usa Exportar → «Ocultar zona» sobre ese texto, o desmárcalas. ⇒ {} echo or angiography sequences have no hidden areas. These machines often burn the patient's name into the image: review them and use Export → “Hide area” over that text, or untick them.
+Se quitan nombres, documentos, instituciones, médicos y etiquetas privadas, y se cambian los identificadores. Revisa siempre el resultado antes de compartirlo. ⇒ Names, IDs, institutions, physicians and private tags are removed, and identifiers are replaced. Always review the result before sharing it.
+Elige al menos una secuencia. ⇒ Choose at least one sequence.
+No se pudo cargar el compresor .zip. ⇒ Could not load the .zip compressor.
+Anonimizando {n} de {n}… ⇒ Anonymizing {} of {}…
+Comprimiendo… ⇒ Compressing…
+Caso exportado: 1 archivo anonimizado. ⇒ Case exported: 1 anonymized file.
+Caso exportado: {n} archivos anonimizados. ⇒ Case exported: {} anonymized files.
+Caso exportado: {n} archivos anonimizados. {n} no se pudieron procesar y se omitieron. ⇒ Case exported: {} anonymized files. {} could not be processed and were skipped.

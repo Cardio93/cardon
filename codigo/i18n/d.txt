@@ -1,0 +1,195 @@
+# ---- Cálculos ----
+alto ⇒ high
+bajo ⇒ low
+Superficie corporal (Mosteller) ⇒ Body surface area (Mosteller)
+Fracción de acortamiento ⇒ Fractional shortening
+FEVI (Teichholz) ⇒ LVEF (Teichholz)
+No usar si hay alteraciones segmentarias. ⇒ Do not use if there are regional wall motion abnormalities.
+Masa VI (ASE) ⇒ LV mass (ASE)
+Grosor parietal relativo ⇒ Relative wall thickness
+Índice de masa VI ⇒ LV mass index
+Geometría del VI ⇒ LV geometry
+Hipertrofia concéntrica ⇒ Concentric hypertrophy
+Hipertrofia excéntrica ⇒ Eccentric hypertrophy
+Remodelado concéntrico ⇒ Concentric remodeling
+Geometría normal ⇒ Normal geometry
+biplano ⇒ biplane
+Volumen telediastólico indexado ⇒ Indexed end-diastolic volume
+Volumen telesistólico indexado ⇒ Indexed end-systolic volume
+Volumen sistólico (Simpson) ⇒ Stroke volume (Simpson)
+Volumen AI indexado ⇒ Indexed LA volume
+Área TSVI ⇒ LVOT area
+Volumen sistólico (Doppler) ⇒ Stroke volume (Doppler)
+Gasto cardíaco ⇒ Cardiac output
+Índice cardíaco ⇒ Cardiac index
+Gradiente pico aórtico ⇒ Aortic peak gradient
+Gradiente medio aórtico ⇒ Aortic mean gradient
+Área valvular aórtica (continuidad) ⇒ Aortic valve area (continuity)
+Índice adimensional (ITV TSVI/ITV Ao) ⇒ Dimensionless index (LVOT VTI/Ao VTI)
+Relación E/A ⇒ E/A ratio
+e' promedio ⇒ average e'
+E/e' promedio ⇒ average E/e'
+E/e' septal ⇒ septal E/e'
+E/e' lateral ⇒ lateral E/e'
+PSAP estimada ⇒ Estimated PASP
+asumida (sin VCI) ⇒ assumed (no IVC)
+estimada por VCI ⇒ estimated from IVC
+elegida a mano ⇒ chosen manually
+Algoritmo diastólico (FEVI normal) ⇒ Diastolic algorithm (normal LVEF)
+Función diastólica normal ⇒ Normal diastolic function
+Sugiere disfunción diastólica ⇒ Suggests diastolic dysfunction
+Indeterminado ⇒ Indeterminate
+Normal ⇒ Normal
+Ver detalle ⇒ See details
+Cambio de área fraccional VD (CAF) ⇒ RV fractional area change (FAC)
+Colapso inspiratorio de la VCI ⇒ IVC inspiratory collapse
+Presión de AD estimada por VCI ⇒ RA pressure estimated from IVC
+VCI ≤ 21 mm con colapso > 50 % → 3 mmHg; > 21 mm con colapso < 50 % → 15 mmHg; los demás casos → 8 mmHg. ⇒ IVC ≤ 21 mm with collapse > 50 % → 3 mmHg; > 21 mm with collapse < 50 % → 15 mmHg; all other cases → 8 mmHg.
+Índice de excentricidad en diástole ⇒ Eccentricity index in diastole
+Índice de excentricidad en sístole ⇒ Eccentricity index in systole
+Interpretación del índice de excentricidad ⇒ Eccentricity index interpretation
+Septo aplanado ⇒ Flattened septum
+Sin aplanamiento septal significativo. ⇒ No significant septal flattening.
+Aplanamiento septal en diástole: sugiere sobrecarga de volumen del VD. ⇒ Septal flattening in diastole: suggests RV volume overload.
+Aplanamiento septal en sístole: sugiere sobrecarga de presión del VD. ⇒ Septal flattening in systole: suggests RV pressure overload.
+Aplanamiento septal en sístole y diástole: sugiere sobrecarga de presión del VD. ⇒ Septal flattening in systole and diastole: suggests RV pressure overload.
+Gradiente medio tricuspídeo ⇒ Tricuspid mean gradient
+Área valvular tricuspídea (190/PHT) ⇒ Tricuspid valve area (190/PHT)
+Gradiente pico pulmonar ⇒ Pulmonary peak gradient
+Área TSVD ⇒ RVOT area
+PAPm estimada por TAP (Mahan) ⇒ mPAP estimated from PAT (Mahan)
+Depende de la frecuencia cardíaca y del flujo. ⇒ Depends on heart rate and flow.
+Flujo pulmonar por latido (Qp) ⇒ Pulmonary flow per beat (Qp)
+Relación Qp/Qs ⇒ Qp/Qs ratio
+Sin evidencia de cortocircuito significativo. ⇒ No evidence of a significant shunt.
+Sugiere un cortocircuito de izquierda a derecha significativo; confírmalo con otros hallazgos. ⇒ Suggests a significant left-to-right shunt; confirm it with other findings.
+Valor bajo: revisa los diámetros (el error se eleva al cuadrado) o considera un cortocircuito de derecha a izquierda. ⇒ Low value: check the diameters (the error is squared) or consider a right-to-left shunt.
+Relación TAPSE/PSAP ⇒ TAPSE/PASP ratio
+Sugiere desacoplamiento entre el VD y la circulación pulmonar. ⇒ Suggests uncoupling between the RV and the pulmonary circulation.
+Orificio regurgitante efectivo (ORE) ⇒ Effective regurgitant orifice area (EROA)
+Volumen regurgitante mitral ⇒ Mitral regurgitant volume
+Insuficiencia mitral por vena contracta ⇒ Mitral regurgitation by vena contracta
+Área valvular mitral (220/PHT) ⇒ Mitral valve area (220/PHT)
+Gradiente medio mitral ⇒ Mitral mean gradient
+Severidad de la insuficiencia aórtica ⇒ Aortic regurgitation severity
+leve ⇒ mild
+moderada ⇒ moderate
+moderado ⇒ moderate
+severa ⇒ severe
+severo ⇒ severe
+muy severa ⇒ very severe
+leve o ausente ⇒ mild or absent
+intermedia ⇒ intermediate
+mixto ⇒ mixed
+no significativa ⇒ not significant
+significativa ⇒ significant
+Rango severa ⇒ Severe range
+Rango severo ⇒ Severe range
+Rango moderada. ⇒ Moderate range.
+Rango moderada ⇒ Moderate range
+leve < 3 mm · severa ≥ 7 mm ⇒ mild < 3 mm · severe ≥ 7 mm
+severa < 0,25 ⇒ severe < 0.25
+severa < 1,0 ⇒ severe < 1.0
+severa > 64 mmHg ⇒ severe > 64 mmHg
+severa ≥ 0,40 ⇒ severe ≥ 0.40
+severa ≥ 40 ⇒ severe ≥ 40
+severa ≥ 60 ml ⇒ severe ≥ 60 ml
+significativa ≤ 1,0 cm² ⇒ significant ≤ 1.0 cm²
+significativa ≤ 1,5 ⇒ significant ≤ 1.5
+significativa ≥ 5 mmHg ⇒ significant ≥ 5 mmHg
+significativa ≥ 50 % ⇒ significant ≥ 50 %
+significativa ≥ 70 % ⇒ significant ≥ 70 %
+≈ 1,0 · significativo ≥ 1,5 ⇒ ≈ 1.0 · significant ≥ 1.5
+≈ 1,0 ⇒ ≈ 1.0
+≤ 0,42 ⇒ ≤ 0.42
+2,5–4,0 ⇒ 2.5–4.0
+≥ 0,55 ⇒ ≥ 0.55
+≥ 70 % · tronco ≥ 50 % ⇒ ≥ 70 % · left main ≥ 50 %
+normal TIMI 3 ⇒ normal TIMI 3
+# ---- Panel de medidas ----
+Paciente ⇒ Patient
+Medidas ⇒ Measurements
+Reporte ⇒ Report
+Guardado ⇒ Saved
+Guardando… ⇒ Saving…
+Las medidas no se guardan hasta asignar un paciente ⇒ Measurements are not saved until a patient is assigned
+Tipo de estudio ⇒ Study type
+Automático ⇒ Automatic
+Automático (ecocardiograma) ⇒ Automatic (echocardiogram)
+Automático (angiografía) ⇒ Automatic (angiography)
+Ecocardiograma ⇒ Echocardiogram
+Angiografía coronaria ⇒ Coronary angiography
+Angiografía ⇒ Angiography
+angiografía ⇒ angiography
+ecocardiograma ⇒ echocardiogram
+Iniciar modo guiado ⇒ Start guided mode
+Propone las medidas en el orden habitual del estudio. ⇒ Suggests the measurements in the usual order of the study.
+Anterior ⇒ Previous
+Omitir ⇒ Skip
+Salir ⇒ Exit
+Protocolo completo. Revisa los cálculos y el reporte. ⇒ Protocol complete. Review the calculations and the report.
+Datos para los cálculos ⇒ Data for calculations
+Sin peso ni talla ⇒ No weight or height
+Fecha ⇒ Date
+Peso (kg) ⇒ Weight (kg)
+Talla (cm) ⇒ Height (cm)
+FC (lpm) ⇒ HR (bpm)
+PAS (mmHg) ⇒ SBP (mmHg)
+PAD (mmHg) ⇒ DBP (mmHg)
+Presión AD ⇒ RA pressure
+Automática ⇒ Automatic
+Automática: usa la presión estimada por la vena cava inferior; si no está medida, asume 3 mmHg. ⇒ Automatic: uses the pressure estimated from the inferior vena cava; if not measured, assumes 3 mmHg.
+Sup. corporal ⇒ BSA
+Unidades ⇒ Units
+Calibración ⇒ Calibration
+Desde el archivo ⇒ From the file
+Manual ⇒ Manual
+Sin calibrar ⇒ Not calibrated
+Calibrar distancia ⇒ Calibrate distance
+Calibrar Doppler ⇒ Calibrate Doppler
+Ajustar línea de base ⇒ Adjust baseline
+Calibrar con el catéter ⇒ Calibrate with the catheter
+Calibrar con catéter ⇒ Calibrate with catheter
+Traza una línea a lo ancho del catéter y escribe su calibre ⇒ Draw a line across the catheter and enter its size
+Esta imagen no trae calibración. Calíbrala antes de medir. ⇒ This image has no calibration. Calibrate it before measuring.
+Calibración de distancia por tamaño de píxel. ⇒ Distance calibration from pixel size.
+de distancia por tamaño de píxel ⇒ distance from pixel size
+manual de Doppler ⇒ manual Doppler
+Calibración de distancia aplicada a esta secuencia. ⇒ Distance calibration applied to this sequence.
+Calibración de Doppler aplicada a esta secuencia. ⇒ Doppler calibration applied to this sequence.
+Corrección por ángulo del Doppler ⇒ Doppler angle correction
+grados ⇒ degrees
+Se aplica a velocidades, ITV y gradientes de esta secuencia. 0° = sin corrección. ⇒ Applies to velocities, VTI and gradients of this sequence. 0° = no correction.
+Por encima de 20° el error es grande: lo ideal es alinear el haz con el flujo. ⇒ Above 20° the error is large: ideally align the beam with the flow.
+Sin corrección por ángulo. ⇒ No angle correction.
+Longitud real de la línea (cm) ⇒ Real length of the line (cm)
+Velocidad de la marca (m/s) ⇒ Velocity of the mark (m/s)
+Catéter: ⇒ Catheter:
+Aplicar ⇒ Apply
+Cancelar ⇒ Cancel
+Abrir todos ⇒ Open all
+Cerrar todos ⇒ Close all
+Promediar varios latidos ⇒ Average several beats
+Desactivado: una nueva medida reemplaza la anterior. ⇒ Off: a new measurement replaces the previous one.
+Promedio de latidos activado: mide la misma variable en otros latidos para promediarla. ⇒ Beat averaging on: measure the same variable in other beats to average it.
+Promedio de latidos desactivado. ⇒ Beat averaging off.
+sin medir ⇒ not measured
+Cálculos ⇒ Calculations
+Los cálculos aparecen a medida que agregas medidas. Por ejemplo, con SIV, DdVI y PP se calcula la masa del VI; con peso y talla, los índices. ⇒ Calculations appear as you add measurements. For example, with IVS, LVIDd and PW the LV mass is calculated; with weight and height, the indexed values.
+Indica el sexo del paciente para comparar con las referencias que dependen de él. ⇒ Enter the patient's sex to compare with sex-specific references.
+Referencias ASE/EACVI 2015 a 2017, ESC/ERS 2022. Confirma los valores en el equipo antes de usarlos en decisiones clínicas. ⇒ ASE/EACVI 2015–2017 and ESC/ERS 2022 references. Confirm the values on the scanner before using them for clinical decisions.
+Medida libre agregada. Clic derecho para otra medida. ⇒ Free measurement added. Right-click for another measurement.
+Medida borrada. ⇒ Measurement deleted.
+Medida borrada. Ctrl+Z para deshacer. ⇒ Measurement deleted. Ctrl+Z to undo.
+Medida seleccionada. Supr para borrarla. ⇒ Measurement selected. Press Del to delete it.
+Medida recuperada. ⇒ Measurement restored.
+Se deshizo la última medida. ⇒ The last measurement was undone.
+No hay nada que deshacer. ⇒ Nothing to undo.
+{} medidas borradas. Ctrl+Z para deshacer. ⇒ {} measurements deleted. Ctrl+Z to undo.
+Medidas del cuadro borradas. Ctrl+Z para deshacer. ⇒ Frame measurements deleted. Ctrl+Z to undo.
+Medidas de la secuencia borradas. Ctrl+Z para deshacer. ⇒ Sequence measurements deleted. Ctrl+Z to undo.
+{} medidas del cuadro borradas. Ctrl+Z para deshacer. ⇒ {} frame measurements deleted. Ctrl+Z to undo.
+Se recuperaron {} medidas. ⇒ {} measurements restored.
+Estenosis medida. ⇒ Stenosis measured.
+Estenosis medida. Para ver los diámetros en mm, calibra con el catéter (pestaña Medidas → Calibrar distancia). ⇒ Stenosis measured. To see the diameters in mm, calibrate with the catheter (Measurements tab → Calibrate distance).
+{}: estenosis de {} %. ⇒ {}: {} % stenosis.

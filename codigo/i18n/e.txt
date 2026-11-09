@@ -1,0 +1,346 @@
+# ---- Menú contextual y herramientas libres ----
+Medidas libres ⇒ Free measurements
+Medidas de angiografía ⇒ Angiography measurements
+Calibrador ⇒ Caliper
+Estenosis (%) ⇒ Stenosis (%)
+Área ⇒ Area
+Tiempo ⇒ Time
+Velocidad ⇒ Velocity
+Trazo Doppler ⇒ Doppler trace
+Pendiente (PHT) ⇒ Slope (PHT)
+Pendiente ⇒ Slope
+Modo M anatómico ⇒ Anatomical M-mode
+Marcar telediástole ⇒ Mark end-diastole
+Marcar telesístole ⇒ Mark end-systole
+Quitar marca del cuadro ⇒ Remove frame mark
+Borrar esta medida ⇒ Delete this measurement
+Borrar las de este cuadro ⇒ Delete those on this frame
+Borrar todas las de la secuencia ⇒ Delete all on this sequence
+Deshacer ⇒ Undo
+Información del archivo ⇒ File information
+Velocidad y gradiente ⇒ Velocity and gradient
+Trazo de área ⇒ Area tracing
+Estenosis ⇒ Stenosis
+Arrastra entre los dos puntos que quieres medir. ⇒ Drag between the two points you want to measure.
+Arrastra en horizontal entre dos instantes del Doppler o del modo M. ⇒ Drag horizontally between two instants of the Doppler or M-mode.
+Haz clic en el punto del espectro Doppler que quieres medir. ⇒ Click the point of the Doppler spectrum you want to measure.
+Traza la envolvente de la onda de principio a fin sin soltar. ⇒ Trace the envelope of the wave from start to end without releasing.
+Recorre el contorno completo sin soltar; se cierra solo. ⇒ Trace the whole contour without releasing; it closes automatically.
+Arrastra desde el pico de la onda siguiendo la pendiente de desaceleración. ⇒ Drag from the peak of the wave along the deceleration slope.
+Primero arrastra a lo ancho del vaso sano de referencia; luego, a lo ancho del punto más estrecho de la lesión. ⇒ First drag across the healthy reference vessel; then across the narrowest point of the lesion.
+Ahora arrastra a lo ancho del punto más estrecho de la lesión (diámetro luminal mínimo). ⇒ Now drag across the narrowest point of the lesion (minimal luminal diameter).
+El diámetro de la lesión debe ser menor que el de referencia. ⇒ The lesion diameter must be smaller than the reference.
+La línea es muy corta. ⇒ The line is too short.
+Arrastra a lo largo de una distancia conocida: dos marcas de la escala de profundidad o, en angiografía, el ancho del catéter. ⇒ Drag along a known distance: two marks of the depth scale or, in angiography, the catheter width.
+Haz clic en la línea de base del Doppler y luego en una marca de velocidad conocida de la escala. ⇒ Click the Doppler baseline and then a known velocity mark on the scale.
+Haz clic sobre la línea de base del espectro Doppler para corregir su posición. ⇒ Click the baseline of the Doppler spectrum to correct its position.
+Arrastra un rectángulo sobre el nombre u otros datos quemados en la imagen. Se tapará en negro al exportar. ⇒ Drag a rectangle over the name or other burned-in data. It will be covered in black when exporting.
+Arrastra la línea del modo M sobre la imagen 2D, por ejemplo a través del anillo tricuspídeo o del VI. El sentido de arrastre es de arriba hacia abajo en el modo M. ⇒ Drag the M-mode line over the 2D image, for example across the tricuspid annulus or the LV. The drag direction becomes top-to-bottom in the M-mode.
+Traza una línea sobre el 2D para obtener su modo M ⇒ Draw a line on the 2D image to obtain its M-mode
+Ya es un modo M ⇒ It is already an M-mode
+Necesita un clip con varios cuadros ⇒ Needs a clip with several frames
+Solo sobre la imagen 2D calibrada ⇒ Only on the calibrated 2D image
+Solo en imagen 2D o modo M ⇒ Only on 2D image or M-mode
+Solo en imagen 2D ⇒ Only on 2D image
+Solo en Doppler o modo M ⇒ Only on Doppler or M-mode
+Solo en Doppler ⇒ Only on Doppler
+Solo en imagen 2D o angiografía ⇒ Only on 2D image or angiography
+Calibra la imagen primero ⇒ Calibrate the image first
+Calibra primero con el catéter ⇒ Calibrate with the catheter first
+Fuera de zona ⇒ Outside regions
+Calibración manual ⇒ Manual calibration
+Calibrada ⇒ Calibrated
+2D ⇒ 2D
+Modo M ⇒ M-mode
+Trazo ⇒ Trace
+Ese punto está fuera de las zonas calibradas de la imagen. ⇒ That point is outside the calibrated regions of the image.
+Ese punto está sobre el Doppler. Las distancias se miden en la imagen 2D o en modo M. ⇒ That point is on the Doppler. Distances are measured on the 2D image or M-mode.
+Esta imagen no trae calibración de distancias. Usa «Calibrar distancia» sobre la escala de profundidad. ⇒ This image has no distance calibration. Use “Calibrate distance” on the depth scale.
+Haz clic dentro del espectro Doppler. Si la imagen no trae calibración, usa «Calibrar Doppler». ⇒ Click inside the Doppler spectrum. If the image has no calibration, use “Calibrate Doppler”.
+Con calibración manual solo se miden velocidades puntuales; el tiempo necesita la calibración del archivo. ⇒ With manual calibration only point velocities can be measured; time needs the file calibration.
+Las áreas se trazan en la imagen 2D. ⇒ Areas are traced on the 2D image.
+Esc cancela. ⇒ Esc cancels.
+Modo M listo. Puedes medir TAPSE, diámetros y tiempos sobre él; la línea ámbar sigue el cuadro del 2D. ⇒ M-mode ready. You can measure TAPSE, diameters and times on it; the amber line follows the 2D frame.
+Modo M listo, pero el 2D no está calibrado: solo podrás medir tiempos. ⇒ M-mode ready, but the 2D image is not calibrated: you can only measure times.
+Generando el modo M… ⇒ Generating M-mode…
+Modo M · ⇒ M-mode ·
+modo M anatómico ⇒ anatomical M-mode
+Modo M anatómico · sin calibración ⇒ Anatomical M-mode · no calibration
+sin calibración ⇒ no calibration
+Las marcas de ciclo se usan en secuencias con varios cuadros. ⇒ Cycle marks are used in sequences with several frames.
+Telediástole marcada en este cuadro. ⇒ End-diastole marked on this frame.
+Telesístole marcada en este cuadro. ⇒ End-systole marked on this frame.
+Marca quitada. ⇒ Mark removed.
+Esta secuencia no trae ECG. Puedes marcar telediástole y telesístole con clic derecho sobre el cuadro. ⇒ This sequence has no ECG. You can mark end-diastole and end-systole by right-clicking the frame.
+Esta secuencia trae las marcas de onda R pero no el trazo: verás las marcas en la barra de cuadros. ⇒ This sequence has R-wave marks but no trace: you will see the marks on the frame bar.
+El ECG de esta secuencia viene dibujado dentro de la imagen, no como señal, así que Cardón no puede leerlo. Marca telediástole y telesístole con clic derecho. ⇒ The ECG of this sequence is drawn inside the image, not as a signal, so Cardón cannot read it. Mark end-diastole and end-systole with a right-click.
+El ECG viene dibujado en la imagen. Cardón lo leyó para marcar telediástole y telesístole: usa TD y TS. ⇒ The ECG is drawn in the image. Cardón read it to mark end-diastole and end-systole: use ED and ES.
+# ---- Reporte ----
+Médico que informa ⇒ Reporting physician
+Nombre del médico ⇒ Physician name
+Registro médico ⇒ Medical license
+Ej.: RM 12345 ⇒ E.g.: Lic. 12345
+El logo, la institución, la firma y el pie de página se configuran en ⇒ The logo, institution, signature and footer are set in
+Conclusión ⇒ Conclusion
+Escribe la conclusión o genérala a partir de las medidas ⇒ Write the conclusion or generate it from the measurements
+Generar conclusión ⇒ Generate conclusion
+Redacta la conclusión a partir de las medidas y los cálculos ⇒ Drafts the conclusion from the measurements and calculations
+Plantilla de conclusión ⇒ Conclusion template
+Insertar ⇒ Insert
+Insertar la plantilla elegida en la conclusión ⇒ Insert the chosen template into the conclusion
+Insertar en la conclusión ⇒ Insert into the conclusion
+Frases frecuentes y plantillas propias ⇒ Frequent phrases and custom templates
+Escribe una frase para guardarla ⇒ Type a phrase to save it
+Guardar frase ⇒ Save phrase
+Quitar la frase ⇒ Remove the phrase
+Guardar la conclusión actual como plantilla ⇒ Save the current conclusion as a template
+Eliminar plantilla elegida ⇒ Delete chosen template
+Escribe primero la conclusión que quieres guardar como plantilla. ⇒ First write the conclusion you want to save as a template.
+Nombre de la plantilla ⇒ Template name
+Guardar plantilla ⇒ Save template
+Plantilla eliminada. ⇒ Template deleted.
+Las plantillas pueden usar valores automáticos entre llaves: {FEVI}, {DdVI}, {DsVI}, {AI}, {EE}, {TAPSE}, {PSAP}, {PAD}, {VCI}, {VIT}, {AVA}, {GMAO}, {ORE}… Los que falten aparecen como ___. Todo se guarda solo en este navegador. ⇒ Templates can use automatic values in braces: {FEVI} (LVEF), {DdVI} (LVIDd), {DsVI} (LVIDs), {AI} (LA), {EE}, {TAPSE}, {PSAP} (PASP), {PAD} (RAP), {VCI} (IVC), {VIT} (TR velocity), {AVA}, {GMAO}, {ORE} (EROA)… Missing ones appear as ___. Everything is saved only in this browser.
+Ya hay una conclusión escrita. ⇒ A conclusion is already written.
+Reemplazarla ⇒ Replace it
+Agregar al final ⇒ Append at the end
+Conclusión generada. Revísala y ajústala antes de firmar. ⇒ Conclusion generated. Review and adjust it before signing.
+Aún no hay medidas suficientes para redactar una conclusión. ⇒ There are not enough measurements yet to draft a conclusion.
+Descargar Word ⇒ Download Word
+Excel ⇒ Excel
+Medidas y cálculos de este estudio en Excel (.xlsx) ⇒ Measurements and calculations of this study in Excel (.xlsx)
+Copiar texto ⇒ Copy text
+Reporte copiado. ⇒ Report copied.
+No se pudo copiar automáticamente; selecciona el texto de la vista previa. ⇒ Could not copy automatically; select the text in the preview.
+Preparando el documento… ⇒ Preparing the document…
+No se pudo cargar el generador de Word. Revisa tu conexión e inténtalo de nuevo. ⇒ The Word generator could not be loaded. Check your connection and try again.
+Asigna un paciente para completar el encabezado. ⇒ Assign a patient to complete the header.
+Ecocardiograma transtorácico ⇒ Transthoracic echocardiogram
+Arteriografía coronaria ⇒ Coronary angiogram
+Edad ⇒ Age
+Sexo ⇒ Sex
+Masculino ⇒ Male
+Femenino ⇒ Female
+Documento ⇒ ID
+Fecha del estudio ⇒ Study date
+Peso ⇒ Weight
+Talla ⇒ Height
+Superficie corporal ⇒ Body surface area
+Frecuencia cardíaca ⇒ Heart rate
+Presión arterial ⇒ Blood pressure
+Datos del procedimiento ⇒ Procedure data
+Acceso ⇒ Access
+Dominancia ⇒ Dominance
+Volumen de contraste ⇒ Contrast volume
+Tiempo de fluoroscopia ⇒ Fluoroscopy time
+Contraste (ml) ⇒ Contrast (ml)
+Fluoroscopia (min) ⇒ Fluoroscopy (min)
+Lesiones coronarias ⇒ Coronary lesions
+Arterias coronarias ⇒ Coronary arteries
+Sin lesiones ⇒ No lesions
+Oclusión total ⇒ Total occlusion
+Lesión significativa ⇒ Significant lesion
+Flujo coronario ⇒ Coronary flow
+Resumen ⇒ Summary
+Vasos con lesión significativa ⇒ Vessels with significant lesions
+Ninguno ⇒ None
+Sin indicar ⇒ Not specified
+Sin datos ⇒ No data
+Derecha ⇒ Right
+Izquierda ⇒ Left
+Codominante ⇒ Codominant
+derecha ⇒ right
+izquierda ⇒ left
+codominante ⇒ codominant
+Radial derecho ⇒ Right radial
+Radial izquierdo ⇒ Left radial
+Femoral derecho ⇒ Right femoral
+Femoral izquierdo ⇒ Left femoral
+Braquial ⇒ Brachial
+Dominancia derecha ⇒ Right dominance
+Dominancia izquierda ⇒ Left dominance
+Dominancia codominante ⇒ Codominance
+Pulsa el nombre del segmento para medir la estenosis sobre la imagen (primero el vaso de referencia y luego la lesión), o escribe el porcentaje. 100 % = oclusión total. ⇒ Click a segment name to measure the stenosis on the image (first the reference vessel, then the lesion), or type the percentage. 100 % = total occlusion.
+La estenosis visual o por calibrador no reemplaza la evaluación funcional (FFR o iFR) en lesiones intermedias. ⇒ Visual or caliper stenosis does not replace functional assessment (FFR or iFR) in intermediate lesions.
+TIMI ⇒ TIMI
+Firma ⇒ Signature
+# ---- Paciente ----
+Nombre completo ⇒ Full name
+Fecha de nacimiento ⇒ Date of birth
+Edad al estudio ⇒ Age at study
+Hombre ⇒ Male
+Mujer ⇒ Female
+Notas ⇒ Notes
+Estudios de este paciente ⇒ Studies of this patient
+Eliminar este estudio ⇒ Delete this study
+Eliminar paciente ⇒ Delete patient
+Estas imágenes no están asignadas a ningún paciente. Asígnalas para guardar las medidas. ⇒ These images are not assigned to any patient. Assign them to save the measurements.
+Paciente existente ⇒ Existing patient
+Paciente nuevo ⇒ New patient
+Asignar como estudio nuevo ⇒ Assign as a new study
+Crear y asignar ⇒ Create and assign
+años ⇒ years
+# ---- Configuración ----
+Encabezado y firma del reporte ⇒ Report header and signature
+Institución o consultorio ⇒ Institution or practice
+Ej.: Consultorio de Cardiología ⇒ E.g.: Cardiology Practice
+Datos de contacto ⇒ Contact details
+Dirección, teléfono, ciudad ⇒ Address, phone, city
+Pie de página ⇒ Footer
+Texto opcional al final de cada página ⇒ Optional text at the bottom of each page
+Logo ⇒ Logo
+Firma escaneada ⇒ Scanned signature
+Elegir imagen ⇒ Choose image
+Quitar ⇒ Remove
+Sin logo ⇒ No logo
+Sin firma ⇒ No signature
+Esta configuración se guarda solo en este navegador. Cada persona que use Cardón puede poner sus propios datos. ⇒ These settings are saved only in this browser. Each person using Cardón can enter their own details.
+Cardón se recargará para aplicar el idioma. ⇒ Cardón will reload to apply the language.
+Protección con contraseña ⇒ Password protection
+Cifra los pacientes, las medidas y las imágenes guardadas en este computador. Cardón pedirá la contraseña cada vez que se abra. ⇒ Encrypts the patients, measurements and images stored on this computer. Cardón will ask for the password every time it opens.
+Contraseña ⇒ Password
+Contraseña nueva ⇒ New password
+Repite la contraseña ⇒ Repeat the password
+Contraseña de la copia ⇒ Backup password
+Activar protección ⇒ Enable protection
+Guardar contraseña ⇒ Save password
+Cambiar contraseña ⇒ Change password
+Quitar protección ⇒ Remove protection
+Bloquear ahora ⇒ Lock now
+Desbloquear ⇒ Unlock
+Protección activa: los datos están cifrados en este computador. ⇒ Protection on: the data are encrypted on this computer.
+Si la olvidas, no hay forma de recuperar los datos. ⇒ If you forget it, there is no way to recover the data.
+Cardón está protegido con contraseña ⇒ Cardón is password protected
+Escríbela para ver tus pacientes e importar estudios. ⇒ Enter it to see your patients and import studies.
+Cardón quedó bloqueado. ⇒ Cardón is locked.
+Cifrando la base de datos… ⇒ Encrypting the database…
+Descifrando la base de datos… ⇒ Decrypting the database…
+Contraseña incorrecta. ⇒ Wrong password.
+Las contraseñas no coinciden. ⇒ The passwords do not match.
+La contraseña debe tener al menos 6 caracteres. ⇒ The password must have at least 6 characters.
+Verificación de cálculos ⇒ Calculation check
+Ejecuta casos de prueba con resultados conocidos para comprobar que las fórmulas siguen dando valores correctos. ⇒ Runs test cases with known results to check that the formulas still give correct values.
+Verificar cálculos ⇒ Check calculations
+No se pudo ejecutar la verificación: ⇒ The check could not be run:
+# ---- Acerca de ----
+Autor ⇒ Author
+Copiar correo ⇒ Copy email
+Licencia ⇒ License
+Cardón es software libre y gratuito bajo la licencia ⇒ Cardón is free and open-source software under the
+o posterior. Puedes usarlo, copiarlo, estudiarlo, modificarlo y compartirlo sin costo. Quien distribuya una versión modificada debe mantener esta misma licencia y el crédito al autor. ⇒ license or later. You may use, copy, study, modify and share it at no cost. Anyone who distributes a modified version must keep this same license and the credit to the author.
+Se entrega tal cual, sin garantía de ningún tipo. ⇒ Provided as is, without warranty of any kind.
+Texto completo de la licencia ⇒ Full license text
+Aviso clínico ⇒ Clinical notice
+Cardón es una herramienta de revisión y docencia. No es un dispositivo médico certificado: confirma las medidas en el equipo de origen antes de usarlas en decisiones clínicas. ⇒ Cardón is a review and teaching tool. It is not a certified medical device: confirm the measurements on the original scanner before using them for clinical decisions.
+Componentes de terceros ⇒ Third-party components
+dicomParser (MIT), OpenJPEG y CharLS compilados por Cornerstone (BSD y licencias de sus autores), jpeg-lossless-decoder-js (MIT), JSZip (MIT), docx (MIT), tipografías IBM Plex y Outfit (SIL Open Font License 1.1). ⇒ dicomParser (MIT), OpenJPEG and CharLS compiled by Cornerstone (BSD and their authors' licenses), jpeg-lossless-decoder-js (MIT), JSZip (MIT), docx (MIT), IBM Plex and Outfit typefaces (SIL Open Font License 1.1).
+· Cardiología ⇒ · Cardiology
+Selecciona y copia el correo con Ctrl+C. ⇒ Select and copy the email with Ctrl+C.
+Correo copiado. ⇒ Email copied.
+Cerrar ⇒ Close
+# ---- Información del archivo ----
+Datos técnicos de la secuencia en pantalla, sin datos del paciente. Si algo no funciona con tu equipo, copia este informe y compártelo. ⇒ Technical data of the sequence on screen, without patient data. If something does not work with your scanner, copy this report and share it.
+Copiar informe ⇒ Copy report
+Informe copiado. ⇒ Report copied.
+Selecciona el texto y cópialo con Ctrl+C. ⇒ Select the text and copy it with Ctrl+C.
+Fabricante ⇒ Manufacturer
+Modelo ⇒ Model
+Software ⇒ Software
+Modalidad ⇒ Modality
+Tipo de objeto ⇒ Object type
+Compresión ⇒ Compression
+Zonas calibradas ⇒ Calibrated regions
+Etiquetas privadas ⇒ Private tags
+Creadores privados ⇒ Private creators
+Telediástole y telesístole ⇒ End-diastole and end-systole
+Lectura del ECG en la imagen ⇒ ECG reading from the image
+Se buscó un trazo verde dibujado y no se encontró ⇒ A drawn green trace was searched for and not found
+Versión de Cardón ⇒ Cardón version
+No incluido en el archivo ⇒ Not included in the file
+Dibujado dentro de la imagen; no se puede leer como señal ⇒ Drawn inside the image; cannot be read as a signal
+Dibujado en la imagen; leído automáticamente (inicio del QRS en los cuadros {}) ⇒ Drawn in the image; read automatically (QRS onset at frames {})
+(incluye marcas manuales) ⇒ (includes manual marks)
+sin marcas ⇒ no marks
+ninguna ⇒ none
+desconocida ⇒ unknown
+formato {} ⇒ format {}
+Sin compresión ⇒ Uncompressed
+Sin compresión (VR implícito) ⇒ Uncompressed (implicit VR)
+Sin compresión (big endian) ⇒ Uncompressed (big endian)
+JPEG básico ⇒ JPEG baseline
+JPEG extendido ⇒ JPEG extended
+JPEG sin pérdida ⇒ JPEG lossless
+video MPEG-2 ⇒ MPEG-2 video
+video MPEG-4 ⇒ MPEG-4 video
+video H.264 ⇒ H.264 video
+Ultrasonido multicuadro ⇒ Multi-frame ultrasound
+Ultrasonido ⇒ Ultrasound
+Captura secundaria ⇒ Secondary capture
+Resonancia magnética ⇒ Magnetic resonance
+Resonancia magnética mejorada ⇒ Enhanced magnetic resonance
+Resonancia ⇒ MR
+Eco ⇒ Echo
+modo M ⇒ M-mode
+Doppler espectral ⇒ Spectral Doppler
+trazo de onda ⇒ waveform
+tejido ⇒ tissue
+flujo color ⇒ color flow
+Doppler pulsado ⇒ pulsed-wave Doppler
+Doppler continuo ⇒ continuous-wave Doppler
+traza media ⇒ mean trace
+traza modal ⇒ modal trace
+traza máxima ⇒ peak trace
+traza de volumen ⇒ volume trace
+pulso ⇒ pulse
+fonocardiograma ⇒ phonocardiogram
+barra de grises ⇒ gray bar
+barra de color ⇒ color bar
+# ---- Importación y errores ----
+El archivo está incompleto o dañado. ⇒ The file is incomplete or damaged.
+El archivo no indica el tamaño de la imagen. ⇒ The file does not state the image size.
+Los datos comprimidos (RLE) no coinciden con el tamaño de la imagen. ⇒ The compressed data (RLE) do not match the image size.
+No se pudo cargar el lector DICOM. Revisa tu conexión a internet y recarga la página. ⇒ The DICOM reader could not be loaded. Check your internet connection and reload the page.
+No se pudo cargar el decodificador. Revisa tu conexión a internet. ⇒ The decoder could not be loaded. Check your internet connection.
+Este archivo usa compresión ⇒ This file uses compression
+Ya estaba en la lista. ⇒ It was already in the list.
+Escrita a mano ⇒ Typed manually
+Medida en la imagen ⇒ Measured on the image
+# ---- Excel ----
+Estudio ⇒ Study
+Dato ⇒ Field
+Valor ⇒ Value
+Tipo ⇒ Type
+Edad (años) ⇒ Age (years)
+Superficie corporal (m²) ⇒ Body surface area (m²)
+Frecuencia cardíaca (lpm) ⇒ Heart rate (bpm)
+Exportado ⇒ Exported
+Programa ⇒ Program
+Cardón · uso educativo ⇒ Cardón · educational use
+Lesiones ⇒ Lesions
+Vaso ⇒ Vessel
+Segmento ⇒ Segment
+Sección ⇒ Section
+Grupo ⇒ Group
+Medida ⇒ Measurement
+Unidad ⇒ Unit
+Latidos ⇒ Beats
+Valores de cada latido ⇒ Values of each beat
+Origen ⇒ Source
+Cálculo ⇒ Calculation
+Referencia ⇒ Reference
+Nota ⇒ Note
+Ecocardiogramas ⇒ Echocardiograms
+Angiografías ⇒ Angiograms
+Fecha ⇒ Date
+SC (m²) ⇒ BSA (m²)
+PAS ⇒ SBP
+PAD ⇒ DBP
+Vasos con lesión significativa ⇒ Vessels with significant lesions
+{} (%) ⇒ {} (%)
+{} (mm) ⇒ {} (mm)
+{} (cm) ⇒ {} (cm)
+{} (cm/s) ⇒ {} (cm/s)
+{} (m/s) ⇒ {} (m/s)
+{} (ms) ⇒ {} (ms)
+{} (ml) ⇒ {} (ml)
+{} (cm²) ⇒ {} (cm²)
+{} ({}) ⇒ {} ({})

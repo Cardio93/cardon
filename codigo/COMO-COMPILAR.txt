@@ -1,0 +1,29 @@
+CARDÓN - Código fuente y cómo compilarlo
+
+Cardón es un solo archivo HTML que se arma a partir de estas piezas:
+  src/index.html        estructura de la página (marcas /*@CSS*/ y /*@JS*/)
+  src/css/app.css       estilos
+  src/js/*.js           módulos, en el orden de src/js/ORDEN.txt (ver src/LEEME.txt)
+  i18n/*.txt            diccionario inglés (líneas "español ⇒ inglés")
+
+Requisitos: Python 3.
+
+1) Versión en línea (carga las librerías desde internet):
+     python3 i18n_build.py      (actualiza el diccionario inglés y compila)
+     python3 build.py           (solo compila)   ->  latido.html
+
+2) Versión sin conexión (todo incluido, la que se distribuye como Cardon.html):
+     python3 build.py --offline  ->  Cardon.html
+   Necesita además, en estas rutas:
+     fonts/plexsans-var.ttf, fonts/plexcond.ttf, fonts/IBMPlexSansCondensed-Medium.ttf,
+     fonts/IBMPlexMono-Regular.ttf, fonts/IBMPlexMono-Medium.ttf, fonts/outfit.ttf
+       (IBM Plex y Outfit, Google Fonts, licencia SIL OFL 1.1)
+     codecs/cornerstonejs-codec-openjpeg-1.3.6/   (npm: @cornerstonejs/codec-openjpeg@1.3.6)
+     codecs/cornerstonejs-codec-charls-1.2.7/     (npm: @cornerstonejs/codec-charls@1.2.7)
+     codecs/jpeg-lossless-decoder-js-2.1.2/       (npm: jpeg-lossless-decoder-js@2.1.2)
+     offline/package/                             (npm: docx@8.5.0)
+     t/node_modules/jszip, t/node_modules/dicom-parser   (npm: jszip, dicom-parser@1.8.21)
+   y el paquete de Python fonttools (pip install fonttools brotli).
+
+Licencia: GNU GPL v3 o posterior (archivo LICENSE en la raíz).
+Autor: Dr. Martín Arrieta · martinarrieta@outlook.com
